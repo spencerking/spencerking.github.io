@@ -23,5 +23,8 @@ We only used one, royalty-free, permissively licensed icon which we recolored.
 The Javascript files used for the project.
 We implemented these ourselves and used some example code from the d3 documentation, cited in comments.
 
-### index.html, diseases.html, and modal.html
+### preprocessing
+The preprocessing steps we used to work with the data provided by the Genome in a Bottle Consortium.
+
+### index.html, diseases.html, and modals.html
 These are the Overview page, Disease Explorer page, and Chromosome modals respectively.
