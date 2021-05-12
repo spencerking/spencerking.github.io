@@ -1,0 +1,378 @@
+chromosome	position	alleles	gene_symbol	gene_id	major_consequence	diseaseName	Organ	Severity	Notes
+1	1787378	"[""G"",""A""]"	GNB1	ENSG00000078369	intron_variant	Muscle hypotonia	Muscle	Data unavailable	None
+1	3412644	"[""G"",""A""]"	MEGF6	ENSG00000162591	intron_variant	LEFT VENTRICULAR NONCOMPACTION 8	Heart	Data unavailable	None
+1	15445655	"[""GTGC"",""GCGG""]"	TMEM51-AS1	ENSG00000175147	intron_variant	"Pancreatitis, Chronic"	Pancreas	Data unavailable	None
+1	21318845	"[""AAT"",""A""]"	EIF4G3	ENSG00000075151	intron_variant	Body mass index	Weight	Data unavailable	None
+1	85581241	"[""A"",""C""]"	WDR63	ENSG00000162643	intron_variant	"Leukemia, Myelocytic, Acute"	Blood	Critical	"A type of cancer of the blood and bone marrow with excess immature white blood cells. AML progresses rapidly, with myeloid cells interfering with the production of normal white blood cells, red blood cells, and platelets."
+1	94042830	"[""C"",""CG""]"	BCAR3	ENSG00000137936	intron_variant	"Night blindness, congenital stationary"	Eye	Data unavailable	None
+1	156314104	"[""T"",""C""]"	TSACC	ENSG00000163467	intron_variant	Red Blood Cell Count measurement	Blood	Data unavailable	"Red Blood Cell count likely outside of the typical range. May be indicative of a variety of diseases including cancer, anemia, and others."
+1	179575782	"[""G"",""A""]"	TDRD5	ENSG00000162782	intron_variant	Idiopathic Nephrotic Syndrome	Kidney	Data unavailable	None
+1	204196482	"[""C"",""T""]"	PLEKHA6	ENSG00000143850	intron_variant	Malignant neoplasm of breast	Breast	Data unavailable	None
+1	206773822	"[""C"",""T""]"	EIF2D	ENSG00000143486	intron_variant	"Lymphoma, Non-Hodgkin"	Lymphatic System	Data unavailable	None
+2	279705	"[""C"",""T""]"	FAM150B	ENSG00000189292	3_prime_UTR_variant	Coronary Artery Disease	Heart	Data unavailable	None
+2	292753	"[""C"",""T""]"	AC079779.4	ENSG00000228643	intron_variant	Body mass index	Weight	Data unavailable	None
+2	47470996	"[""G"",""C""]"	AC073283.4	ENSG00000234690	intron_variant	Hereditary Nonpolyposis Colorectal Cancer	Colon	Data unavailable	None
+2	47480701	"[""ACGCTCAC"",""AAGCTCAT""]"	AC073283.4	ENSG00000234690	intron_variant	"Neoplastic Syndromes, Hereditary"	General	Data unavailable	None
+2	85432404	"[""A"",""C""]"	TCF7L1	ENSG00000152284	intron_variant	Platelet mean volume determination (procedure)	Blood	Data unavailable	None
+2	178781157	"[""C"",""T""]"	PDE11A	ENSG00000128655	intron_variant	"Myopathy, Early-Onset, with Fatal Cardiomyopathy"	Heart	Data unavailable	None
+2	190999673	"[""C"",""T""]"	C2orf88	ENSG00000187699	intron_variant	"CANDIDIASIS, FAMILIAL, 7"	General	Data unavailable	None
+2	202552837	"[""G"",""C""]"	MPP4	ENSG00000082126	intron_variant	"Pulmonary Hypertension, Primary, 1"	Heart	Data unavailable	None
+2	224844919	"[""C"",""G""]"	SERPINE2	ENSG00000135919	intron_variant	"Leukemia, Myelocytic, Acute"	Blood	Critical	"A type of cancer of the blood and bone marrow with excess immature white blood cells. AML progresses rapidly, with myeloid cells interfering with the production of normal white blood cells, red blood cells, and platelets."
+2	227893863	"[""C"",""T""]"	COL4A4	ENSG00000081052	intron_variant	Malignant neoplasm of breast	Breast	Data unavailable	None
+2	233616709	"[""A"",""G""]"	GIGYF2	ENSG00000204120	intron_variant	Bilirubin measurement	Liver	Data unavailable	None
+2	233760761	"[""T"",""TACTCCTCG""]"	NGEF	ENSG00000066248	intron_variant	"Crigler Najjar syndrome, type 1"	Liver	Data unavailable	None
+2	241526862	"[""C"",""T""]"	CAPN10	ENSG00000142330	intron_variant	Systolic Pressure	Heart	Data unavailable	None
+3	15645240	"[""C"",""T""]"	BTD	ENSG00000169814	intron_variant	Biotinidase Deficiency	General	Data unavailable	None
+3	27468223	"[""T"",""C""]"	SLC4A7	ENSG00000033867	intron_variant	Breast Carcinoma	Breast	Data unavailable	None
+3	30688511	"[""G"",""A""]"	TGFBR2	ENSG00000163513	intron_variant	"Aortic aneurysm, familial thoracic 3"	Heart	Data unavailable	None
+3	58078717	"[""G"",""A""]"	FLNB	ENSG00000136068	intron_variant	Boomerang dysplasia	Skeleton	Data unavailable	None
+3	133601021	"[""G"",""A""]"	RAB6B	ENSG00000154917	intron_variant	Malignant neoplasm of breast	Breast	Data unavailable	None
+3	152066793	"[""A"",""G""]"	MBNL1	ENSG00000152601	intron_variant	"Pyloric Stenosis, Hypertrophic"	Stomach	Low	A condition in which the opening between the stomach and small intestine thickens. Typically resolves within days or weeks.
+3	173684990	"[""G"",""A""]"	NLGN1	ENSG00000169760	intron_variant	"Leukemia, Myelocytic, Acute"	Blood	Critical	"A type of cancer of the blood and bone marrow with excess immature white blood cells. AML progresses rapidly, with myeloid cells interfering with the production of normal white blood cells, red blood cells, and platelets."
+3	186948673	"[""A"",""G""]"	MASP1	ENSG00000127241	intron_variant	"Diabetes Mellitus, Non-Insulin-Dependent"	Blood	Data unavailable	None
+4	1804377	"[""G"",""A""]"	FGFR3	ENSG00000068078	intron_variant	Achondroplasia	Skeleton	Data unavailable	None
+4	21244175	"[""G"",""A""]"	KCNIP4	ENSG00000185774	intron_variant	Adolescent idiopathic scoliosis	Spine	Data unavailable	None
+4	41746162	"[""T"",""A""]"	PHOX2B	ENSG00000109132	3_prime_UTR_variant	Dysautonomia	Nerve	Data unavailable	None
+4	121705035	"[""T"",""C""]"	PRDM5	ENSG00000138738	intron_variant	Waist-Hip Ratio	Weight	Low	None
+4	186287734	"[""T"",""C""]"	LRP2BP	ENSG00000109771	3_prime_UTR_variant	Hereditary Factor XI Deficiency	Blood	Data unavailable	None
+5	218356	"[""T"",""C""]"	SDHA	ENSG00000073578	5_prime_UTR_variant	"Neoplastic Syndromes, Hereditary"	General	Data unavailable	None
+5	13850651	"[""T"",""C""]"	DNAH5	ENSG00000039139	intron_variant	Ciliary Motility Disorders	Respiratory	Data unavailable	None
+5	80399551	"[""TAA"",""T""]"	RASGRF2	ENSG00000113319	intron_variant	Hair Color	Hair	Low	None
+5	149981158	"[""C"",""T""]"	SYNPO	ENSG00000171992	intron_variant	"EPIPHYSEAL DYSPLASIA, MULTIPLE, 4"	Joints	Data unavailable	None
+5	169390084	"[""G"",""A""]"	DOCK2	ENSG00000134516	intron_variant	Adolescent idiopathic scoliosis	Spine	Data unavailable	None
+5	173931151	"[""C"",""T""]"	RP11-267A15.1	ENSG00000249306	intron_variant	Red Blood Cell Count measurement	Blood	Data unavailable	"Red Blood Cell count likely outside of the typical range. May be indicative of a variety of diseases including cancer, anemia, and others."
+6	403799	"[""A"",""G""]"	IRF4	ENSG00000137265	intron_variant	Hair Color	Hair	Low	None
+6	408079	"[""C"",""T""]"	IRF4	ENSG00000137265	3_prime_UTR_variant	Celiac Disease	Small Intestine	Data unavailable	None
+6	409119	"[""A"",""G""]"	IRF4	ENSG00000137265	3_prime_UTR_variant	Asthma	Respiratory	Chronic	None
+6	411064	"[""A"",""G""]"	IRF4	ENSG00000137265	3_prime_UTR_variant	Malignant Neoplasms	General	Data unavailable	None
+6	514991	"[""C"",""T""]"	EXOC2	ENSG00000112685	intron_variant	Hair Color	Hair	Low	None
+6	537157	"[""C"",""T""]"	EXOC2	ENSG00000112685	intron_variant	Alopecia	Hair	Low	Sudden hair loss
+6	542159	"[""A"",""G""]"	EXOC2	ENSG00000112685	intron_variant	Hair Color	Hair	Low	None
+6	553489	"[""T"",""C""]"	EXOC2	ENSG00000112685	intron_variant	Suntan	Skin	Data unavailable	None
+6	577820	"[""A"",""G""]"	EXOC2	ENSG00000112685	intron_variant	Psoriasis	Skin	Data unavailable	None
+6	637465	"[""C"",""T""]"	EXOC2	ENSG00000112685	intron_variant	Glaucoma	Eye	Data unavailable	None
+6	642017	"[""C"",""T""]"	EXOC2	ENSG00000112685	intron_variant	"Glaucoma, Open-Angle"	Eye	Data unavailable	None
+6	670871	"[""C"",""T""]"	EXOC2	ENSG00000112685	intron_variant	Eosinophil count procedure	Blood	Data unavailable	Eosinophil count likely outside of the typical range. A high count may be indicative of leukemia or other blood disorders. A low count may be indicative of high cortisol levels.
+6	20641105	"[""G"",""A""]"	CDKAL1	ENSG00000145996	intron_variant	"Diabetes Mellitus, Non-Insulin-Dependent"	Blood	Data unavailable	None
+6	30011802	"[""C"",""A""]"	ZNRD1-AS1	ENSG00000204623	intron_variant	"HUMAN IMMUNODEFICIENCY VIRUS TYPE 1, SUSCEPTIBILITY TO"	Immune System	Data unavailable	None
+6	30171922	"[""T"",""C""]"	TRIM26	ENSG00000234127	intron_variant	Rheumatoid Arthritis	Joints	Data unavailable	None
+6	31125705	"[""C"",""G""]"	CCHCR1	ENSG00000204536	5_prime_UTR_variant	"HUMAN IMMUNODEFICIENCY VIRUS TYPE 1, SUSCEPTIBILITY TO"	Immune System	Data unavailable	None
+6	31472720	"[""G"",""T""]"	MICB	ENSG00000204516	intron_variant	Rheumatoid Arthritis	Joints	Data unavailable	None
+6	51912577	"[""C"",""A""]"	PKHD1	ENSG00000170927	intron_variant	Autosomal Recessive Polycystic Kidney Disease	Kidney	Data unavailable	None
+6	56022442	"[""C"",""T""]"	COL21A1	ENSG00000124749	intron_variant	Vital capacity	Lung	Data unavailable	None
+6	111205242	"[""C"",""G""]"	AMD1	ENSG00000123505	intron_variant	Hypothyroidism	Thyroid	Chronic	None
+6	117252341	"[""A"",""G""]"	RFX6	ENSG00000185002	intron_variant	Waist-Hip Ratio	Weight	Low	None
+6	152488422	"[""T"",""C""]"	SYNE1	ENSG00000131018	intron_variant	"SPINOCEREBELLAR ATAXIA, AUTOSOMAL RECESSIVE 8 (disorder)"	Brain	Data unavailable	None
+6	163932893	"[""C"",""T""]"	QKI	ENSG00000112531	intron_variant	Mean blood pressure	Blood	Data unavailable	None
+7	55163737	"[""C"",""G""]"	EGFR	ENSG00000146648	intron_variant	Head and Neck Neoplasms	Throat	Data unavailable	None
+7	81733271	"[""C"",""A""]"	CACNA2D1	ENSG00000153956	intron_variant	"Diabetes Mellitus, Non-Insulin-Dependent"	Blood	Data unavailable	None
+7	87423940	"[""CA"",""C""]"	RUNDC3B	ENSG00000105784	intron_variant	Low phospholipid-associated cholelithiasis	Liver	Data unavailable	None
+7	101160333	"[""T"",""C""]"	COL26A1	ENSG00000160963	intron_variant	Body mass index	Weight	Data unavailable	None
+7	101164751	"[""G"",""A""]"	COL26A1	ENSG00000160963	intron_variant	Amyotrophic Lateral Sclerosis	Muscle	Chronic	None
+7	110448467	"[""A"",""C""]"	IMMP2L	ENSG00000184903	intron_variant	Bone Mineral Density Test	Bone	Data unavailable	None
+7	114614352	"[""TTA"",""T""]"	MDFIC	ENSG00000135272	intron_variant	Pervasive Development Disorder	Brain	Data unavailable	None
+8	9137002	"[""C"",""G""]"	RP11-115J16.1	ENSG00000254235	intron_variant	Coronary Artery Disease	Heart	Data unavailable	None
+8	19970337	"[""C"",""T""]"	AC100802.3	ENSG00000253775	intron_variant	Triglycerides measurement	Heart	Data unavailable	None
+8	40490456	"[""A"",""T""]"	ZMAT4	ENSG00000165061	intron_variant	Serum albumin measurement	Liver/Kidney	Data unavailable	None
+8	57565337	"[""T"",""C""]"	RP11-17A4.4	ENSG00000254055	intron_variant	Serum albumin measurement	Liver/Kidney	Data unavailable	None
+8	133185294	"[""C"",""T""]"	KCNQ3	ENSG00000184156	intron_variant	Blood Protein Measurement	Blood	Data unavailable	None
+8	142275662	"[""T"",""C""]"	SLC45A4	ENSG00000022567	intron_variant	Impaired cognition	Brain	Data unavailable	None
+9	224742	"[""A"",""G""]"	DOCK8	ENSG00000107099	intron_variant	Cutaneous Melanoma	Skin	Data unavailable	None
+9	239313	"[""G"",""C""]"	DOCK8	ENSG00000107099	intron_variant	Platelet mean volume determination (procedure)	Blood	Data unavailable	None
+9	331490	"[""T"",""G""]"	DOCK8	ENSG00000107099	intron_variant	Platelet mean volume determination (procedure)	Blood	Data unavailable	None
+9	607178	"[""C"",""G""]"	KANK1	ENSG00000107104	intron_variant	Body Height	Height	Data unavailable	None
+9	641720	"[""G"",""C""]"	KANK1	ENSG00000107104	intron_variant	"Leukemia, Myelocytic, Acute"	Blood	Critical	"A type of cancer of the blood and bone marrow with excess immature white blood cells. AML progresses rapidly, with myeloid cells interfering with the production of normal white blood cells, red blood cells, and platelets."
+9	648732	"[""T"",""A""]"	KANK1	ENSG00000107104	intron_variant	"Leukemia, Myelocytic, Acute"	Blood	Critical	"A type of cancer of the blood and bone marrow with excess immature white blood cells. AML progresses rapidly, with myeloid cells interfering with the production of normal white blood cells, red blood cells, and platelets."
+9	657340	"[""G"",""A""]"	KANK1	ENSG00000107104	intron_variant	Esophageal Neoplasms	Esophagus	Data unavailable	None
+9	677938	"[""G"",""T""]"	KANK1	ENSG00000107104	intron_variant	Nicotine Dependence	Brain	Data unavailable	None
+9	680714	"[""G"",""A""]"	KANK1	ENSG00000107104	intron_variant	Uterine Fibroids	Uterus	Data unavailable	None
+9	681645	"[""G"",""A""]"	KANK1	ENSG00000107104	intron_variant	Basal cell carcinoma	Skin	Data unavailable	None
+9	855091	"[""A"",""G""]"	DMRT1	ENSG00000137090	intron_variant	Malignant Testicular Germ Cell Tumor	Testicles	Data unavailable	None
+9	863635	"[""C"",""T""]"	DMRT1	ENSG00000137090	intron_variant	Teratoma	General	Data unavailable	None
+9	2493751	"[""T"",""G""]"	RP11-125B21.2	ENSG00000236404	intron_variant	Diastolic blood pressure	Heart	Data unavailable	None
+9	2496480	"[""T"",""A""]"	RP11-125B21.2	ENSG00000236404	intron_variant	Systolic Pressure	Heart	Data unavailable	None
+9	2548556	"[""C"",""T""]"	RP11-125B21.2	ENSG00000236404	intron_variant	Mental disorders	Brain	Data unavailable	None
+9	2602279	"[""T"",""C""]"	RP11-125B21.2	ENSG00000236404	intron_variant	Eosinophil count procedure	Blood	Data unavailable	Eosinophil count likely outside of the typical range. A high count may be indicative of leukemia or other blood disorders. A low count may be indicative of high cortisol levels.
+9	2621030	"[""C"",""A""]"	RP11-125B21.2	ENSG00000236404	intron_variant	Carotid Artery Diseases	Heart	Data unavailable	None
+9	2621145	"[""T"",""A""]"	RP11-125B21.2	ENSG00000236404	intron_variant	Myocardial Ischemia	Heart	Data unavailable	None
+9	2622278	"[""G"",""A""]"	VLDLR	ENSG00000147852	splice_region_variant	White Blood Cell Count procedure	Blood	Data unavailable	"White Blood Cell count likely outside of the typical range. May be indicative of a variety of diseases including leukemia, various autoimmune disorders, and others."
+9	2623615	"[""G"",""A""]"	VLDLR	ENSG00000147852	intron_variant	Red Blood Cell Count measurement	Blood	Data unavailable	"Red Blood Cell count likely outside of the typical range. May be indicative of a variety of diseases including cancer, anemia, and others."
+9	2982931	"[""T"",""C""]"	CARM1P1	ENSG00000227835	intron_variant	Major Depressive Disorder	Brain	Data unavailable	None
+9	2983774	"[""C"",""A""]"	CARM1P1	ENSG00000227835	intron_variant	Major Depressive Disorder	Brain	Data unavailable	None
+9	3014254	"[""T"",""C""]"	CARM1P1	ENSG00000227835	intron_variant	Smoking	Lung	Data unavailable	None
+9	3929424	"[""C"",""T""]"	GLIS3	ENSG00000107249	intron_variant	Alzheimer's Disease	Brain	Data unavailable	None
+9	4039727	"[""G"",""T""]"	GLIS3	ENSG00000107249	intron_variant	White Blood Cell Count procedure	Blood	Data unavailable	"White Blood Cell count likely outside of the typical range. May be indicative of a variety of diseases including leukemia, various autoimmune disorders, and others."
+9	4118111	"[""G"",""T""]"	GLIS3	ENSG00000107249	missense_variant	Body Height	Height	Data unavailable	None
+9	4120648	"[""G"",""A""]"	GLIS3	ENSG00000107249	intron_variant	Forced expiratory volume function	Lung	Data unavailable	None
+9	4160364	"[""G"",""A""]"	GLIS3	ENSG00000107249	intron_variant	Body Height	Height	Data unavailable	None
+9	4215308	"[""G"",""A""]"	GLIS3	ENSG00000107249	intron_variant	Central corneal thickness	Eye	Data unavailable	None
+9	4216751	"[""T"",""C""]"	GLIS3	ENSG00000107249	intron_variant	Tonometry	Eye	Data unavailable	None
+9	4217028	"[""G"",""A""]"	GLIS3	ENSG00000107249	intron_variant	Angle Closure Glaucoma	Eye	Data unavailable	None
+9	4220832	"[""C"",""G""]"	GLIS3	ENSG00000107249	intron_variant	Tonometry	Eye	Data unavailable	None
+9	4223660	"[""T"",""C""]"	GLIS3	ENSG00000107249	intron_variant	Thyroxine measurement	Thyroid	Data unavailable	None
+9	4232588	"[""G"",""T""]"	GLIS3	ENSG00000107249	intron_variant	mathematical ability	Brain	Low	None
+9	4237041	"[""T"",""C""]"	GLIS3	ENSG00000107249	intron_variant	mathematical ability	Brain	Low	None
+9	4237546	"[""A"",""G""]"	GLIS3	ENSG00000107249	intron_variant	Tonometry	Eye	Data unavailable	None
+9	4267209	"[""A"",""G""]"	GLIS3	ENSG00000107249	intron_variant	Thyroid stimulating hormone measurement	Thyroid	Data unavailable	None
+9	4285119	"[""C"",""G""]"	GLIS3	ENSG00000107249	intron_variant	Glucose measurement	Blood	Data unavailable	None
+9	4289050	"[""C"",""A""]"	GLIS3	ENSG00000107249	intron_variant	"Diabetes Mellitus, Non-Insulin-Dependent"	Blood	Data unavailable	None
+9	4290085	"[""G"",""C""]"	GLIS3	ENSG00000107249	intron_variant	Fasting blood glucose measurement	Blood	Data unavailable	None
+9	4290823	"[""A"",""T""]"	GLIS3	ENSG00000107249	intron_variant	Diabetes	Blood	Data unavailable	None
+9	4291747	"[""C"",""G""]"	GLIS3	ENSG00000107249	intron_variant	"Diabetes Mellitus, Insulin-Dependent"	Blood	Data unavailable	None
+9	4291928	"[""A"",""C""]"	GLIS3	ENSG00000107249	intron_variant	Body Height	Height	Data unavailable	None
+9	4292083	"[""G"",""A""]"	GLIS3	ENSG00000107249	intron_variant	Dermatomyositis	Skin	Data unavailable	None
+9	4292152	"[""A"",""G""]"	GLIS3	ENSG00000107249	intron_variant	Fasting blood glucose measurement	Blood	Data unavailable	None
+9	4293150	"[""A"",""C""]"	GLIS3	ENSG00000107249	intron_variant	Birth Weight	Weight	Data unavailable	None
+9	4295583	"[""A"",""G""]"	GLIS3	ENSG00000107249	intron_variant	Osteoarthritis of hip	Hip	Data unavailable	None
+9	4507513	"[""A"",""G""]"	SLC1A1	ENSG00000106688	intron_variant	Schizophrenia	Brain	Data unavailable	None
+9	4527752	"[""C"",""G""]"	SLC1A1	ENSG00000106688	intron_variant	Schizophrenia	Brain	Data unavailable	None
+9	4557296	"[""C"",""G""]"	SLC1A1	ENSG00000106688	intron_variant	Seizures	Brain	Data unavailable	None
+9	4559892	"[""C"",""T""]"	SLC1A1	ENSG00000106688	intron_variant	Obsessive-Compulsive Disorder	Brain	Data unavailable	None
+9	4567353	"[""C"",""G""]"	SLC1A1	ENSG00000106688	intron_variant	Obsessive-Compulsive Disorder	Brain	Data unavailable	None
+9	4576680	"[""T"",""C""]"	SLC1A1	ENSG00000106688	synonymous_variant	Anxiety	Brain	Data unavailable	None
+9	4576851	"[""G"",""C""]"	SLC1A1	ENSG00000106688	intron_variant	Autistic Disorder	Brain	Data unavailable	None
+9	4594919	"[""C"",""G""]"	SPATA6L	ENSG00000106686	intron_variant	Obsessive-Compulsive Disorder	Brain	Data unavailable	None
+9	4684397	"[""G"",""T""]"	CDC37L1	ENSG00000106993	intron_variant	"Leukemia, Myelocytic, Acute"	Blood	Critical	"A type of cancer of the blood and bone marrow with excess immature white blood cells. AML progresses rapidly, with myeloid cells interfering with the production of normal white blood cells, red blood cells, and platelets."
+9	4691570	"[""C"",""T""]"	CDC37L1	ENSG00000106993	intron_variant	"Leukemia, Myelocytic, Acute"	Blood	Critical	"A type of cancer of the blood and bone marrow with excess immature white blood cells. AML progresses rapidly, with myeloid cells interfering with the production of normal white blood cells, red blood cells, and platelets."
+9	4695068	"[""A"",""G""]"	CDC37L1	ENSG00000106993	intron_variant	"Leukemia, Myelocytic, Acute"	Blood	Critical	"A type of cancer of the blood and bone marrow with excess immature white blood cells. AML progresses rapidly, with myeloid cells interfering with the production of normal white blood cells, red blood cells, and platelets."
+9	4698416	"[""G"",""A""]"	CDC37L1	ENSG00000106993	intron_variant	"Leukemia, Myelocytic, Acute"	Blood	Critical	"A type of cancer of the blood and bone marrow with excess immature white blood cells. AML progresses rapidly, with myeloid cells interfering with the production of normal white blood cells, red blood cells, and platelets."
+9	4740251	"[""A"",""C""]"	AK3	ENSG00000147853	intron_variant	Body Height	Height	Data unavailable	None
+9	4793798	"[""G"",""T""]"	RCL1	ENSG00000120158	intron_variant	Eosinophil count procedure	Blood	Data unavailable	Eosinophil count likely outside of the typical range. A high count may be indicative of leukemia or other blood disorders. A low count may be indicative of high cortisol levels.
+9	4814948	"[""G"",""C""]"	RCL1	ENSG00000120158	intron_variant	Red Blood Cell Count measurement	Blood	Data unavailable	"Red Blood Cell count likely outside of the typical range. May be indicative of a variety of diseases including cancer, anemia, and others."
+9	4834394	"[""A"",""G""]"	RCL1	ENSG00000120158	intron_variant	Platelet Count measurement	Blood	Data unavailable	Platelet count likely outside of the typical range. May be indicative of a variety of diseases including leukemia.
+9	4835574	"[""G"",""A""]"	RCL1	ENSG00000120158	intron_variant	Corpuscular Hemoglobin Concentration Mean	Blood	Data unavailable	None
+9	4840380	"[""A"",""G""]"	RCL1	ENSG00000120158	intron_variant	Red Blood Cell Count measurement	Blood	Data unavailable	"Red Blood Cell count likely outside of the typical range. May be indicative of a variety of diseases including cancer, anemia, and others."
+9	4843672	"[""C"",""G""]"	RCL1	ENSG00000120158	intron_variant	Red Blood Cell Count measurement	Blood	Data unavailable	"Red Blood Cell count likely outside of the typical range. May be indicative of a variety of diseases including cancer, anemia, and others."
+9	4844265	"[""T"",""C""]"	RCL1	ENSG00000120158	intron_variant	Red Blood Cell Count measurement	Blood	Data unavailable	"Red Blood Cell count likely outside of the typical range. May be indicative of a variety of diseases including cancer, anemia, and others."
+9	4844507	"[""G"",""T""]"	RCL1	ENSG00000120158	intron_variant	"Leukemia, Myelocytic, Acute"	Blood	Critical	"A type of cancer of the blood and bone marrow with excess immature white blood cells. AML progresses rapidly, with myeloid cells interfering with the production of normal white blood cells, red blood cells, and platelets."
+9	4844704	"[""T"",""C""]"	RCL1	ENSG00000120158	intron_variant	Red Blood Cell Count measurement	Blood	Data unavailable	"Red Blood Cell count likely outside of the typical range. May be indicative of a variety of diseases including cancer, anemia, and others."
+9	4845242	"[""G"",""A""]"	RCL1	ENSG00000120158	intron_variant	"Leukemia, Myelocytic, Acute"	Blood	Critical	"A type of cancer of the blood and bone marrow with excess immature white blood cells. AML progresses rapidly, with myeloid cells interfering with the production of normal white blood cells, red blood cells, and platelets."
+9	4845520	"[""A"",""G""]"	RCL1	ENSG00000120158	intron_variant	Red Blood Cell Count measurement	Blood	Data unavailable	"Red Blood Cell count likely outside of the typical range. May be indicative of a variety of diseases including cancer, anemia, and others."
+9	4847570	"[""T"",""C""]"	RCL1	ENSG00000120158	intron_variant	Red Blood Cell Count measurement	Blood	Data unavailable	"Red Blood Cell count likely outside of the typical range. May be indicative of a variety of diseases including cancer, anemia, and others."
+9	4848297	"[""A"",""G""]"	RCL1	ENSG00000120158	intron_variant	Red Blood Cell Count measurement	Blood	Data unavailable	"Red Blood Cell count likely outside of the typical range. May be indicative of a variety of diseases including cancer, anemia, and others."
+9	4849647	"[""T"",""C""]"	RCL1	ENSG00000120158	intron_variant	Mean Corpuscular Volume (result)	Blood	Data unavailable	None
+9	4850613	"[""A"",""G""]"	RCL1	ENSG00000120158	intron_variant	Eosinophil count procedure	Blood	Data unavailable	Eosinophil count likely outside of the typical range. A high count may be indicative of leukemia or other blood disorders. A low count may be indicative of high cortisol levels.
+9	4852599	"[""A"",""G""]"	RCL1	ENSG00000120158	intron_variant	Red Blood Cell Count measurement	Blood	Data unavailable	"Red Blood Cell count likely outside of the typical range. May be indicative of a variety of diseases including cancer, anemia, and others."
+9	4853751	"[""A"",""G""]"	RCL1	ENSG00000120158	intron_variant	Red Blood Cell Count measurement	Blood	Data unavailable	"Red Blood Cell count likely outside of the typical range. May be indicative of a variety of diseases including cancer, anemia, and others."
+9	4855858	"[""A"",""C""]"	RCL1	ENSG00000120158	intron_variant	Red Blood Cell Count measurement	Blood	Data unavailable	"Red Blood Cell count likely outside of the typical range. May be indicative of a variety of diseases including cancer, anemia, and others."
+9	4855912	"[""C"",""T""]"	RCL1	ENSG00000120158	intron_variant	Corpuscular Hemoglobin Concentration Mean	Blood	Data unavailable	None
+9	4856234	"[""G"",""A""]"	RCL1	ENSG00000120158	intron_variant	Platelet Count measurement	Blood	Data unavailable	Platelet count likely outside of the typical range. May be indicative of a variety of diseases including leukemia.
+9	4856877	"[""G"",""A""]"	RCL1	ENSG00000120158	intron_variant	Red Blood Cell Count measurement	Blood	Data unavailable	"Red Blood Cell count likely outside of the typical range. May be indicative of a variety of diseases including cancer, anemia, and others."
+9	4860300	"[""A"",""G""]"	RCL1	ENSG00000120158	3_prime_UTR_variant	Corpuscular Hemoglobin Concentration Mean	Blood	Data unavailable	None
+9	4860643	"[""G"",""C""]"	RCL1	ENSG00000120158	3_prime_UTR_variant	Malignant neoplasm of breast	Breast	Data unavailable	None
+9	4861479	"[""C"",""T""]"	RCL1	ENSG00000120158	intron_variant	Red Blood Cell Count measurement	Blood	Data unavailable	"Red Blood Cell count likely outside of the typical range. May be indicative of a variety of diseases including cancer, anemia, and others."
+9	4863952	"[""A"",""G""]"	RCL1	ENSG00000120158	intron_variant	Corpuscular Hemoglobin Concentration Mean	Blood	Data unavailable	None
+9	4865256	"[""A"",""G""]"	RCL1	ENSG00000120158	intron_variant	Corpuscular Hemoglobin Concentration Mean	Blood	Data unavailable	None
+9	4865338	"[""C"",""T""]"	RCL1	ENSG00000120158	intron_variant	Red Blood Cell Count measurement	Blood	Data unavailable	"Red Blood Cell count likely outside of the typical range. May be indicative of a variety of diseases including cancer, anemia, and others."
+9	4866010	"[""G"",""T""]"	RCL1	ENSG00000120158	intron_variant	Corpuscular Hemoglobin Concentration Mean	Blood	Data unavailable	None
+9	4884849	"[""A"",""C""]"	RCL1	ENSG00000120158	non_coding_transcript_exon_variant	"Leukemia, Myelocytic, Acute"	Blood	Critical	"A type of cancer of the blood and bone marrow with excess immature white blood cells. AML progresses rapidly, with myeloid cells interfering with the production of normal white blood cells, red blood cells, and platelets."
+9	4885267	"[""A"",""G""]"	RCL1	ENSG00000120158	non_coding_transcript_exon_variant	"Leukemia, Myelocytic, Acute"	Blood	Critical	"A type of cancer of the blood and bone marrow with excess immature white blood cells. AML progresses rapidly, with myeloid cells interfering with the production of normal white blood cells, red blood cells, and platelets."
+9	4985879	"[""A"",""G""]"	JAK2	ENSG00000096968	intron_variant	Psoriasis	Skin	Data unavailable	None
+9	4988761	"[""C"",""T""]"	JAK2	ENSG00000096968	intron_variant	Crohn Disease	Bowel	Data unavailable	None
+9	5003338	"[""G"",""A""]"	JAK2	ENSG00000096968	intron_variant	Hormone refractory prostate cancer	Prostate	Data unavailable	None
+9	5010192	"[""G"",""A""]"	JAK2	ENSG00000096968	intron_variant	Malignant tumor of cervix	Cervix	Data unavailable	None
+9	5059440	"[""C"",""T""]"	JAK2	ENSG00000096968	intron_variant	Hormone refractory prostate cancer	Prostate	Data unavailable	None
+9	5069837	"[""G"",""A""]"	JAK2	ENSG00000096968	intron_variant	Platelet Count measurement	Blood	Data unavailable	Platelet count likely outside of the typical range. May be indicative of a variety of diseases including leukemia.
+9	5072846	"[""G"",""A""]"	JAK2	ENSG00000096968	intron_variant	Primary Myelofibrosis	Bone Marrow	Data unavailable	None
+9	5081780	"[""G"",""A""]"	JAK2	ENSG00000096968	synonymous_variant	"Leukemia, Myelocytic, Acute"	Blood	Critical	"A type of cancer of the blood and bone marrow with excess immature white blood cells. AML progresses rapidly, with myeloid cells interfering with the production of normal white blood cells, red blood cells, and platelets."
+9	5084049	"[""G"",""T""]"	JAK2	ENSG00000096968	intron_variant	Ankylosing spondylitis	Spine	Data unavailable	None
+9	5112288	"[""C"",""T""]"	JAK2	ENSG00000096968	intron_variant	Metabolic Syndrome X	Heart	Chronic	"A cluster of conditions that increase the risk of heart disease, stroke, and diabetes."
+9	5377115	"[""C"",""T""]"	PLGRKT	ENSG00000107020	intron_variant	"Alcoholic Intoxication, Chronic"	Liver	Data unavailable	None
+9	5453973	"[""T"",""C""]"	CD274	ENSG00000120217	intron_variant	"Diabetes Mellitus, Insulin-Dependent"	Blood	Data unavailable	None
+9	5467955	"[""G"",""A""]"	CD274	ENSG00000120217	3_prime_UTR_variant	Non-Small Cell Lung Carcinoma	Lung	Data unavailable	None
+9	5468257	"[""G"",""C""]"	CD274	ENSG00000120217	3_prime_UTR_variant	Malignant neoplasm of urinary bladder	Bladder	Data unavailable	None
+9	5470497	"[""A"",""G""]"	CD274	ENSG00000120217	3_prime_UTR_variant	Non-Small Cell Lung Carcinoma	Lung	Data unavailable	None
+9	5510644	"[""A"",""G""]"	PDCD1LG2	ENSG00000197646	5_prime_UTR_variant	Blood Protein Measurement	Blood	Data unavailable	None
+9	5510837	"[""TA"",""TGT""]"	PDCD1LG2	ENSG00000197646	intron_variant	Blood Protein Measurement	Blood	Data unavailable	None
+9	5556786	"[""A"",""G""]"	PDCD1LG2	ENSG00000197646	intron_variant	Ankylosing spondylitis	Spine	Data unavailable	None
+9	5557672	"[""T"",""C""]"	PDCD1LG2	ENSG00000197646	missense_variant	Behcet Syndrome	Blood Vessel	Chronic	None
+9	5774661	"[""G"",""A""]"	KIAA1432	ENSG00000107036	3_prime_UTR_variant	Respiratory Tract Diseases	Respiratory	Data unavailable	None
+9	5791151	"[""G"",""A""]"	ERMP1	ENSG00000099219	intron_variant	"Leukemia, Myelocytic, Acute"	Blood	Critical	"A type of cancer of the blood and bone marrow with excess immature white blood cells. AML progresses rapidly, with myeloid cells interfering with the production of normal white blood cells, red blood cells, and platelets."
+9	5792106	"[""T"",""C""]"	ERMP1	ENSG00000099219	intron_variant	"Leukemia, Myelocytic, Acute"	Blood	Critical	"A type of cancer of the blood and bone marrow with excess immature white blood cells. AML progresses rapidly, with myeloid cells interfering with the production of normal white blood cells, red blood cells, and platelets."
+9	5792156	"[""G"",""A""]"	ERMP1	ENSG00000099219	intron_variant	"Leukemia, Myelocytic, Acute"	Blood	Critical	"A type of cancer of the blood and bone marrow with excess immature white blood cells. AML progresses rapidly, with myeloid cells interfering with the production of normal white blood cells, red blood cells, and platelets."
+9	5893861	"[""G"",""A""]"	MLANA	ENSG00000120215	intron_variant	Multiple Sclerosis	Nerve	Data unavailable	None
+9	6051924	"[""T"",""G""]"	RP11-218I7.2	ENSG00000228739	intron_variant	Asthma	Respiratory	Chronic	None
+9	6064299	"[""C"",""G""]"	RP11-218I7.2	ENSG00000228739	intron_variant	Allergic Reaction	General	Data unavailable	None
+9	6064575	"[""A"",""G""]"	RP11-218I7.2	ENSG00000228739	intron_variant	Allergic Reaction	General	Data unavailable	None
+9	6219176	"[""G"",""T""]"	IL33	ENSG00000137033	intron_variant	Asthma	Respiratory	Chronic	None
+9	6227418	"[""G"",""A""]"	IL33	ENSG00000137033	intron_variant	Small cell carcinoma of lung	Lung	Data unavailable	None
+9	6229417	"[""G"",""A""]"	IL33	ENSG00000137033	intron_variant	Ischemic stroke	Brain	Data unavailable	None
+9	6231239	"[""A"",""G""]"	IL33	ENSG00000137033	intron_variant	Asthma	Respiratory	Chronic	None
+9	6233082	"[""A"",""T""]"	IL33	ENSG00000137033	intron_variant	Asthma	Respiratory	Chronic	None
+9	6233376	"[""T"",""C""]"	IL33	ENSG00000137033	intron_variant	Allergic Reaction	General	Data unavailable	None
+9	6236977	"[""A"",""T""]"	IL33	ENSG00000137033	intron_variant	Allergic Reaction	General	Data unavailable	None
+9	6237547	"[""A"",""C""]"	IL33	ENSG00000137033	intron_variant	Asthma	Respiratory	Chronic	None
+9	6242950	"[""C"",""T""]"	IL33	ENSG00000137033	intron_variant	Wheezing	Respiratory	Data unavailable	None
+9	6243935	"[""G"",""C""]"	IL33	ENSG00000137033	intron_variant	Allergic Reaction	General	Data unavailable	None
+9	6247430	"[""C"",""T""]"	IL33	ENSG00000137033	intron_variant	Wheezing	Respiratory	Data unavailable	None
+9	6254208	"[""C"",""T""]"	IL33	ENSG00000137033	intron_variant	Alzheimer's Disease	Brain	Data unavailable	None
+9	6255881	"[""T"",""G""]"	IL33	ENSG00000137033	intron_variant	Colorectal Carcinoma	Colon	Data unavailable	None
+9	6329888	"[""A"",""G""]"	TPD52L3	ENSG00000170777	3_prime_UTR_variant	Red Blood Cell Count measurement	Blood	Data unavailable	"Red Blood Cell count likely outside of the typical range. May be indicative of a variety of diseases including cancer, anemia, and others."
+9	6331421	"[""C"",""A""]"	TPD52L3	ENSG00000170777	3_prime_UTR_variant	Allergic Reaction	General	Data unavailable	None
+9	6331610	"[""G"",""A""]"	TPD52L3	ENSG00000170777	3_prime_UTR_variant	Allergic Reaction	General	Data unavailable	None
+9	6447196	"[""G"",""A""]"	UHRF2	ENSG00000147854	intron_variant	Serum albumin measurement	Liver/Kidney	Data unavailable	None
+9	6664708	"[""G"",""T""]"	RP11-390F4.6	ENSG00000236924	intron_variant	Body Height	Height	Data unavailable	None
+9	6665010	"[""C"",""T""]"	RP11-390F4.6	ENSG00000236924	intron_variant	Alanine aminotransferase measurement	Blood	Data unavailable	None
+9	6880263	"[""A"",""G""]"	KDM4C	ENSG00000107077	intron_variant	Body mass index	Weight	Data unavailable	None
+9	6956850	"[""A"",""C""]"	KDM4C	ENSG00000107077	intron_variant	Body mass index	Weight	Data unavailable	None
+9	6959840	"[""A"",""G""]"	KDM4C	ENSG00000107077	intron_variant	Body mass index	Weight	Data unavailable	None
+9	6977633	"[""G"",""A""]"	KDM4C	ENSG00000107077	intron_variant	Autistic Disorder	Brain	Data unavailable	None
+9	7056822	"[""A"",""G""]"	KDM4C	ENSG00000107077	intron_variant	mathematical ability	Brain	Low	None
+9	7166090	"[""A"",""C""]"	KDM4C	ENSG00000107077	intron_variant	Body Height	Height	Data unavailable	None
+9	7173500	"[""A"",""G""]"	KDM4C	ENSG00000107077	intron_variant	Schizophrenia	Brain	Data unavailable	None
+9	7174673	"[""G"",""A""]"	KDM4C	ENSG00000107077	missense_variant	Age at menarche	Reproductive System	Low	Male patient
+9	8389364	"[""C"",""G""]"	PTPRD	ENSG00000153707	synonymous_variant	Conventional (Clear Cell) Renal Cell Carcinoma	Kidney	Data unavailable	None
+9	8712601	"[""C"",""G""]"	PTPRD	ENSG00000153707	intron_variant	"Arthritis, Gouty"	Joints	Data unavailable	None
+9	8820573	"[""A"",""G""]"	PTPRD	ENSG00000153707	intron_variant	Restless Legs Syndrome	Leg	Low	None
+9	8826588	"[""T"",""C""]"	PTPRD	ENSG00000153707	intron_variant	Serum albumin measurement	Liver/Kidney	Data unavailable	None
+9	8831162	"[""A"",""G""]"	PTPRD	ENSG00000153707	intron_variant	Serum albumin measurement	Liver/Kidney	Data unavailable	None
+9	8832038	"[""C"",""T""]"	PTPRD	ENSG00000153707	intron_variant	Serum albumin measurement	Liver/Kidney	Data unavailable	None
+9	8845598	"[""A"",""G""]"	PTPRD	ENSG00000153707	intron_variant	Body mass index	Weight	Data unavailable	None
+9	8879118	"[""C"",""T""]"	PTPRD	ENSG00000153707	intron_variant	Diabetes	Blood	Data unavailable	None
+9	9039222	"[""A"",""G""]"	PTPRD	ENSG00000153707	intron_variant	Corneal Topography	Eye	Data unavailable	None
+9	9059545	"[""G"",""A""]"	PTPRD	ENSG00000153707	intron_variant	Resistant hypertensive disorder	Heart	Data unavailable	None
+9	9350706	"[""T"",""C""]"	PTPRD	ENSG00000153707	intron_variant	Systolic Pressure	Heart	Data unavailable	None
+9	9404584	"[""T"",""C""]"	PTPRD	ENSG00000153707	intron_variant	"Leukemia, Myelocytic, Acute"	Blood	Critical	"A type of cancer of the blood and bone marrow with excess immature white blood cells. AML progresses rapidly, with myeloid cells interfering with the production of normal white blood cells, red blood cells, and platelets."
+9	9404813	"[""G"",""A""]"	PTPRD	ENSG00000153707	intron_variant	"Leukemia, Myelocytic, Acute"	Blood	Critical	"A type of cancer of the blood and bone marrow with excess immature white blood cells. AML progresses rapidly, with myeloid cells interfering with the production of normal white blood cells, red blood cells, and platelets."
+9	9405003	"[""A"",""G""]"	PTPRD	ENSG00000153707	intron_variant	"Leukemia, Myelocytic, Acute"	Blood	Critical	"A type of cancer of the blood and bone marrow with excess immature white blood cells. AML progresses rapidly, with myeloid cells interfering with the production of normal white blood cells, red blood cells, and platelets."
+9	9405316	"[""C"",""T""]"	PTPRD	ENSG00000153707	intron_variant	"Leukemia, Myelocytic, Acute"	Blood	Critical	"A type of cancer of the blood and bone marrow with excess immature white blood cells. AML progresses rapidly, with myeloid cells interfering with the production of normal white blood cells, red blood cells, and platelets."
+9	9405431	"[""G"",""A""]"	PTPRD	ENSG00000153707	intron_variant	"Leukemia, Myelocytic, Acute"	Blood	Critical	"A type of cancer of the blood and bone marrow with excess immature white blood cells. AML progresses rapidly, with myeloid cells interfering with the production of normal white blood cells, red blood cells, and platelets."
+9	9410073	"[""G"",""C""]"	PTPRD	ENSG00000153707	intron_variant	"Leukemia, Myelocytic, Acute"	Blood	Critical	"A type of cancer of the blood and bone marrow with excess immature white blood cells. AML progresses rapidly, with myeloid cells interfering with the production of normal white blood cells, red blood cells, and platelets."
+9	9910123	"[""G"",""A""]"	PTPRD	ENSG00000153707	intron_variant	Respiratory Function Tests	Respiratory	Data unavailable	None
+9	10043773	"[""A"",""G""]"	PTPRD	ENSG00000153707	intron_variant	Age at menarche	Reproductive System	Low	Male patient
+9	10251492	"[""A"",""T""]"	PTPRD	ENSG00000153707	intron_variant	Age at menarche	Reproductive System	Low	Male patient
+9	10260263	"[""C"",""T""]"	PTPRD	ENSG00000153707	intron_variant	Malignant neoplasm of endometrium	Uterus	Low	None
+9	10266786	"[""C"",""T""]"	PTPRD	ENSG00000153707	intron_variant	Endometrial Carcinoma	Uterus	Data unavailable	None
+9	10319881	"[""A"",""C""]"	PTPRD	ENSG00000153707	intron_variant	Gestational Diabetes	Blood	Data unavailable	None
+9	10337976	"[""T"",""A""]"	PTPRD	ENSG00000153707	intron_variant	Gestational Diabetes	Blood	Data unavailable	None
+9	10341235	"[""C"",""G""]"	PTPRD	ENSG00000153707	intron_variant	Gestational Diabetes	Blood	Data unavailable	None
+9	10369009	"[""A"",""T""]"	PTPRD	ENSG00000153707	intron_variant	Body mass index	Weight	Data unavailable	None
+9	10467074	"[""C"",""T""]"	PTPRD	ENSG00000153707	intron_variant	"Leukemia, Myelocytic, Acute"	Blood	Critical	"A type of cancer of the blood and bone marrow with excess immature white blood cells. AML progresses rapidly, with myeloid cells interfering with the production of normal white blood cells, red blood cells, and platelets."
+9	10471487	"[""C"",""T""]"	PTPRD	ENSG00000153707	intron_variant	"Leukemia, Myelocytic, Acute"	Blood	Critical	"A type of cancer of the blood and bone marrow with excess immature white blood cells. AML progresses rapidly, with myeloid cells interfering with the production of normal white blood cells, red blood cells, and platelets."
+9	10471937	"[""C"",""G""]"	PTPRD	ENSG00000153707	intron_variant	"Leukemia, Myelocytic, Acute"	Blood	Critical	"A type of cancer of the blood and bone marrow with excess immature white blood cells. AML progresses rapidly, with myeloid cells interfering with the production of normal white blood cells, red blood cells, and platelets."
+9	10478387	"[""G"",""A""]"	PTPRD	ENSG00000153707	intron_variant	"Leukemia, Myelocytic, Acute"	Blood	Critical	"A type of cancer of the blood and bone marrow with excess immature white blood cells. AML progresses rapidly, with myeloid cells interfering with the production of normal white blood cells, red blood cells, and platelets."
+9	10479527	"[""T"",""C""]"	PTPRD	ENSG00000153707	intron_variant	"Leukemia, Myelocytic, Acute"	Blood	Critical	"A type of cancer of the blood and bone marrow with excess immature white blood cells. AML progresses rapidly, with myeloid cells interfering with the production of normal white blood cells, red blood cells, and platelets."
+9	10512307	"[""T"",""C""]"	PTPRD	ENSG00000153707	intron_variant	Adolescent idiopathic scoliosis	Spine	Data unavailable	None
+9	10582445	"[""T"",""C""]"	PTPRD	ENSG00000153707	intron_variant	Mood Disorders	Brain	Data unavailable	None
+9	10594635	"[""T"",""C""]"	PTPRD	ENSG00000153707	intron_variant	Diastolic blood pressure	Heart	Data unavailable	None
+9	12704725	"[""C"",""T""]"	TYRP1	ENSG00000107165	intron_variant	melanoma	Skin	Data unavailable	None
+9	12712578	"[""T"",""A""]"	RP11-3L8.3	ENSG00000235448	intron_variant	Hair Color	Hair	Low	None
+9	22115286	"[""T"",""C""]"	CDKN2B-AS1	ENSG00000240498	intron_variant	Rheumatoid Arthritis	Joints	Data unavailable	None
+9	35091880	"[""C"",""T""]"	PIGO	ENSG00000165282	synonymous_variant	HYPERPHOSPHATASIA WITH MENTAL RETARDATION SYNDROME 2	Brain	Data unavailable	None
+9	74762494	"[""A"",""T""]"	GDA	ENSG00000119125	intron_variant	"Diabetes Mellitus, Non-Insulin-Dependent"	Blood	Data unavailable	None
+10	918892	"[""C"",""G""]"	LARP4B	ENSG00000107929	intron_variant	Eosinophil count procedure	Blood	Data unavailable	Eosinophil count likely outside of the typical range. A high count may be indicative of leukemia or other blood disorders. A low count may be indicative of high cortisol levels.
+10	6075359	"[""C"",""T""]"	IL2RA	ENSG00000134460	intron_variant	Multiple Sclerosis	Nerve	Data unavailable	None
+10	62025330	"[""AT"",""A""]"	ANK3	ENSG00000151150	intron_variant	Rheumatoid Arthritis	Joints	Data unavailable	None
+10	77805897	"[""C"",""CT""]"	C10orf11	ENSG00000148655	intron_variant	Ulcerative Colitis	Unknown	Data unavailable	None
+10	95693897	"[""A"",""G""]"	SLC35G1	ENSG00000176273	intron_variant	JOUBERT SYNDROME 18	Unknown	Data unavailable	None
+10	99095945	"[""G"",""C""]"	RP11-452K12.4	ENSG00000225850	intron_variant	Childhood asthma	Respiratory	Chronic	None
+11	192836	"[""A"",""G""]"	BET1L	ENSG00000177951	intron_variant	Nasal Polyps	Respiratory	Data unavailable	None
+11	196944	"[""C"",""T""]"	ODF3	ENSG00000177947	5_prime_UTR_variant	Platelet Count measurement	Blood	Data unavailable	Platelet count likely outside of the typical range. May be indicative of a variety of diseases including leukemia.
+11	202856	"[""G"",""A""]"	BET1L	ENSG00000177951	intron_variant	Platelet Count measurement	Blood	Data unavailable	Platelet count likely outside of the typical range. May be indicative of a variety of diseases including leukemia.
+11	205198	"[""C"",""A""]"	BET1L	ENSG00000177951	3_prime_UTR_variant	Red cell distribution width determination	Blood	Data unavailable	None
+11	223119	"[""T"",""C""]"	SIRT3	ENSG00000142082	intron_variant	Malignant Head and Neck Neoplasm	Throat	Data unavailable	None
+11	229977	"[""G"",""A""]"	SIRT3	ENSG00000142082	intron_variant	Age at menarche	Reproductive System	Low	Male patient
+11	231980	"[""C"",""G""]"	SIRT3	ENSG00000142082	intron_variant	Dyslipidemias	Blood	Data unavailable	Abnormally elevated cholesterol or fats (lipids) in the blood.
+11	235894	"[""T"",""G""]"	SIRT3	ENSG00000142082	intron_variant	Age at menarche	Reproductive System	Low	Male patient
+11	237312	"[""T"",""C""]"	PSMD13	ENSG00000185627	intron_variant	"Depressive Disorder, Treatment-Resistant"	Brain	Data unavailable	None
+11	243268	"[""T"",""G""]"	PSMD13	ENSG00000185627	intron_variant	Bone Density	Bone	Data unavailable	None
+11	244552	"[""A"",""G""]"	PSMD13	ENSG00000185627	intron_variant	Body Height	Height	Data unavailable	None
+11	284257	"[""G"",""A""]"	NLRP6	ENSG00000174885	synonymous_variant	Neoplasm Metastasis	General	Data unavailable	None
+11	308065	"[""T"",""C""]"	IFITM2	ENSG00000185201	intron_variant	Platelet Count measurement	Blood	Data unavailable	Platelet count likely outside of the typical range. May be indicative of a variety of diseases including leukemia.
+11	396546	"[""G"",""A""]"	PKP3	ENSG00000184363	intron_variant	Tuberculosis	Lung	Data unavailable	None
+11	408352	"[""C"",""A""]"	SIGIRR	ENSG00000185187	intron_variant	"Lupus Erythematosus, Systemic"	General	Chronic	None
+11	429659	"[""C"",""T""]"	ANO9	ENSG00000185101	splice_region_variant	Tuberculosis	Lung	Data unavailable	None
+11	534242	"[""A"",""G""]"	HRAS	ENSG00000174775	synonymous_variant	Malignant neoplasm of urinary bladder	Bladder	Data unavailable	None
+11	535098	"[""T"",""G""]"	HRAS	ENSG00000174775	intron_variant	Malignant Neoplasms	General	Data unavailable	None
+11	536856	"[""G"",""C""]"	HRAS	ENSG00000174775	non_coding_transcript_exon_variant	Malignant Neoplasms	General	Data unavailable	None
+11	577534	"[""G"",""A""]"	PHRF1	ENSG00000070047	intron_variant	Hypothyroidism	Thyroid	Data unavailable	None
+11	611919	"[""C"",""G""]"	PHRF1	ENSG00000070047	3_prime_UTR_variant	"Lupus Erythematosus, Systemic"	General	Chronic	None
+11	612967	"[""A"",""G""]"	IRF7	ENSG00000185507	intron_variant	Tuberculosis	Lung	Data unavailable	None
+11	614318	"[""T"",""C""]"	IRF7	ENSG00000185507	missense_variant	Graves Disease	Thyroid	Chronic	An immune system disorder where the thyroid overproduces hormones.
+11	614864	"[""C"",""T""]"	IRF7	ENSG00000185507	synonymous_variant	Graves Disease	Thyroid	Chronic	An immune system disorder where the thyroid overproduces hormones.
+11	616865	"[""G"",""A""]"	CDHR5	ENSG00000099834	3_prime_UTR_variant	Gerstmann-Straussler-Scheinker Disease	Brain	Data unavailable	None
+11	618172	"[""A"",""G""]"	CDHR5	ENSG00000099834	intron_variant	Systemic Scleroderma	Skin	Chronic	None
+11	618998	"[""G"",""A""]"	CDHR5	ENSG00000099834	missense_variant	Gerstmann-Straussler-Scheinker Disease	Brain	Data unavailable	None
+11	619789	"[""T"",""G""]"	CDHR5	ENSG00000099834	missense_variant	"Lupus Erythematosus, Systemic"	General	Data unavailable	None
+11	620599	"[""G"",""T""]"	CDHR5	ENSG00000099834	intron_variant	Gerstmann-Straussler-Scheinker Disease	Brain	Data unavailable	None
+11	625085	"[""A"",""G""]"	CDHR5	ENSG00000099834	5_prime_UTR_variant	"Lupus Erythematosus, Systemic"	General	Data unavailable	None
+11	639273	"[""C"",""A""]"	DRD4	ENSG00000069696	intron_variant	Attention deficit hyperactivity disorder	Unknown	Data unavailable	None
+11	705297	"[""G"",""C""]"	EPS8L2	ENSG00000177106	5_prime_UTR_variant	Body Height	Height	Data unavailable	None
+11	772701	"[""A"",""G""]"	PDDC1	ENSG00000177225	intron_variant	Fuchs Endothelial Dystrophy	Eye	Data unavailable	None
+11	780827	"[""C"",""T""]"	AP006621.5	ENSG00000255284	intron_variant	Tonometry	Eye	Data unavailable	None
+11	791462	"[""G"",""A""]"	SLC25A22	ENSG00000177542	3_prime_UTR_variant	Tonometry	Eye	Data unavailable	None
+11	803017	"[""A"",""G""]"	PIDD	ENSG00000177595	intron_variant	Breast Carcinoma	Breast	Data unavailable	None
+11	825110	"[""A"",""G""]"	PNPLA2	ENSG00000177666	3_prime_UTR_variant	Body Fat Distribution	Weight	Data unavailable	None
+11	828916	"[""G"",""A""]"	EFCAB4A	ENSG00000177685	missense_variant	Body mass index	Weight	Data unavailable	None
+11	838722	"[""T"",""C""]"	CD151	ENSG00000177697	3_prime_UTR_variant	Platelet mean volume determination (procedure)	Blood	Data unavailable	None
+11	986185	"[""C"",""A""]"	AP2A2	ENSG00000183020	intron_variant	Alzheimer's Disease	Brain	Data unavailable	None
+11	993745	"[""C"",""G""]"	AP2A2	ENSG00000183020	intron_variant	Asthma	Respiratory	Chronic	None
+11	1027811	"[""C"",""T""]"	MUC6	ENSG00000184956	missense_variant	"Gastritis, Atrophic"	Stomach	Data unavailable	None
+11	3038127	"[""C"",""A""]"	CARS	ENSG00000110619	intron_variant	Hyperactive behavior	Brain	Data unavailable	None
+11	10275120	"[""T"",""C""]"	SBF2	ENSG00000133812	intron_variant	Corpuscular Hemoglobin Concentration Mean	Blood	Data unavailable	None
+11	89178093	"[""A"",""C""]"	NOX4	ENSG00000086991	intron_variant	"ALBINISM, OCULOCUTANEOUS, TYPE IB (disorder)"	Hair	Data unavailable	None
+11	103311923	"[""C"",""G""]"	DYNC2H1	ENSG00000187240	intron_variant	Saldino-Noonan Syndrome	Skeleton	Data unavailable	None
+11	108335940	"[""G"",""C""]"	C11orf65	ENSG00000166323	intron_variant	Ataxia Telangiectasia	Brain	Data unavailable	None
+11	117989554	"[""G"",""A""]"	TMPRSS4	ENSG00000137648	3_prime_UTR_variant	Septicemia	Blood	Data unavailable	Sepsis
+12	25227349	"[""C"",""T""]"	LRMP	ENSG00000118308	intron_variant	Blepharoptosis	Eye	Data unavailable	None
+12	109586766	"[""A"",""G""]"	ACACB	ENSG00000076555	intron_variant	Hyperimmunoglobulinemia D	General	Data unavailable	None
+12	124602646	"[""G"",""A""]"	FAM101A	ENSG00000178882	intron_variant	response to bronchodilator	Respiratory	Data unavailable	None
+13	32339465	"[""T"",""G""]"	RXFP2	ENSG00000133105	intron_variant	"BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 2"	Ovary	Low	Male patient
+13	51946439	"[""CAGTTT"",""CTG""]"	INTS6	ENSG00000102786	intron_variant	Hepatolenticular Degeneration	General	Data unavailable	An inherited disorder that causes too much copper to accumulate in the organs.
+13	99380092	"[""G"",""C""]"	SLC15A1	ENSG00000088386	intron_variant	Respiratory Tract Diseases	Respiratory	Data unavailable	None
+14	91374725	"[""T"",""C""]"	RPS6KA5	ENSG00000100784	intron_variant	Malignant neoplasm of breast	Breast	Data unavailable	None
+15	43376592	"[""T"",""C""]"	UBR1	ENSG00000159459	intron_variant	"MICROCEPHALY AND CHORIORETINOPATHY, AUTOSOMAL RECESSIVE, 3"	Unknown	Data unavailable	None
+15	49547350	"[""T"",""C""]"	GALK2	ENSG00000156958	intron_variant	Blood Protein Measurement	Blood	Data unavailable	None
+15	74181301	"[""C"",""A""]"	TBC1D21	ENSG00000167139	intron_variant	ANOPHTHALMIA AND PULMONARY HYPOPLASIA	Heart	Data unavailable	None
+16	64305190	"[""G"",""T""]"	AC012322.1	ENSG00000261028	intron_variant	"Leukemia, Myelocytic, Acute"	Blood	Critical	"A type of cancer of the blood and bone marrow with excess immature white blood cells. AML progresses rapidly, with myeloid cells interfering with the production of normal white blood cells, red blood cells, and platelets."
+16	68738324	"[""G"",""T""]"	CDH3	ENSG00000062038	intron_variant	"Neoplastic Syndromes, Hereditary"	General	Data unavailable	None
+16	82861212	"[""C"",""T""]"	CDH13	ENSG00000140945	intron_variant	Adolescent idiopathic scoliosis	Spine	Data unavailable	None
+17	3499068	"[""G"",""T""]"	TRPV1	ENSG00000196689	5_prime_UTR_variant	Canavan Disease	Brain	Fatal	"Canavan disease, or Canavan-Van Bogaert-Bertrand disease, is a rare and fatal autosomal recessive degenerative disorder that causes progressive damage to nerve cells and loss of white matter in the brain."
+17	16127206	"[""A"",""C""]"	PIGL	ENSG00000108474	intron_variant	Forced expiratory volume function	Unknown	Data unavailable	None
+17	40631693	"[""T"",""G""]"	ATP6V0A1	ENSG00000033627	intron_variant	"MENINGIOMA, FAMILIAL, SUSCEPTIBILITY TO"	Unknown	Data unavailable	None
+17	46034247	"[""A"",""G""]"	PRR15L	ENSG00000167183	intron_variant	Primary biliary cirrhosis	Liver	Data unavailable	None
+17	63918011	"[""T"",""A""]"	CEP112	ENSG00000154240	intron_variant	"Isolated Growth Hormone Deficiency, Type II"	Unknown	Data unavailable	None
+17	63943846	"[""T"",""A""]"	CEP112	ENSG00000154240	intron_variant	Muscle Cramp	Muscle	Low	None
+18	248481	"[""T"",""A""]"	THOC1	ENSG00000079134	intron_variant	Vital capacity	Lung	Data unavailable	None
+18	442441	"[""C"",""T""]"	COLEC12	ENSG00000158270	intron_variant	Metabolic Syndrome X	Heart	Chronic	"A cluster of conditions that increase the risk of heart disease, stroke, and diabetes."
+18	466810	"[""T"",""G""]"	COLEC12	ENSG00000158270	intron_variant	Blood Protein Measurement	Blood	Data unavailable	None
+18	649311	"[""A"",""G""]"	CLUL1	ENSG00000079101	intron_variant	Testicular Germ Cell Tumor	Testicles	Data unavailable	None
+18	653847	"[""G"",""A""]"	C18orf56	ENSG00000176912	intron_variant	Liver carcinoma	Liver	Data unavailable	None
+18	657352	"[""T"",""C""]"	C18orf56	ENSG00000176912	intron_variant	"Hyalinosis, Systemic"	Unknown	Data unavailable	None
+18	657443	"[""A"",""C""]"	C18orf56	ENSG00000176912	intron_variant	"Hyalinosis, Systemic"	Unknown	Data unavailable	None
+18	658064	"[""G"",""C""]"	C18orf56	ENSG00000176912	missense_variant	Colorectal Carcinoma	Unknown	Data unavailable	None
+18	661647	"[""G"",""A""]"	TYMS	ENSG00000176890	intron_variant	Non-Small Cell Lung Carcinoma	Lung	Data unavailable	None
+18	662103	"[""G"",""A""]"	TYMS	ENSG00000176890	intron_variant	Skin lesion	Skin	Data unavailable	None
+18	666371	"[""G"",""A""]"	TYMS	ENSG00000176890	intron_variant	Spina Bifida	Spine	Data unavailable	None
+18	672792	"[""C"",""T""]"	ENOSF1	ENSG00000132199	3_prime_UTR_variant	Glioma	Brain	Data unavailable	None
+18	673016	"[""C"",""T""]"	TYMS	ENSG00000176890	3_prime_UTR_variant	Neural Tube Defects	Brain	Data unavailable	None
+18	673086	"[""A"",""G""]"	TYMS	ENSG00000176890	3_prime_UTR_variant	Acute lymphocytic leukemia	Blood	Critical	None
+18	676008	"[""G"",""C""]"	ENOSF1	ENSG00000132199	intron_variant	Neoplasms	General	Data unavailable	None
+18	676789	"[""A"",""T""]"	ENOSF1	ENSG00000132199	intron_variant	Malignant neoplasm of endometrium	Uterus	Low	Male patient
+18	677302	"[""G"",""A""]"	ENOSF1	ENSG00000132199	intron_variant	Malignant neoplasm of endometrium	Uterus	Low	Male patient
+18	677931	"[""C"",""G""]"	ENOSF1	ENSG00000132199	intron_variant	Malignant neoplasm of endometrium	Uterus	Low	Male patient
+18	683607	"[""C"",""T""]"	ENOSF1	ENSG00000132199	intron_variant	Malignant neoplasm of stomach	Stomach	Data unavailable	None
+18	2170567	"[""T"",""C""]"	RP11-161I6.2	ENSG00000263745	intron_variant	"Leukemia, Myelocytic, Acute"	Blood	Critical	"A type of cancer of the blood and bone marrow with excess immature white blood cells. AML progresses rapidly, with myeloid cells interfering with the production of normal white blood cells, red blood cells, and platelets."
+18	4127583	"[""A"",""C""]"	DLGAP1	ENSG00000170579	intron_variant	Mental disorders	Brain	Data unavailable	None
+19	406934	"[""C"",""A""]"	C2CD4C	ENSG00000183186	3_prime_UTR_variant	Polysomnography	Brain	Data unavailable	None
+19	498524	"[""A"",""G""]"	MADCAM1	ENSG00000099866	synonymous_variant	Acute GVH disease	Bone Marrow	Data unavailable	None
+19	582253	"[""T"",""C""]"	BSG	ENSG00000172270	intron_variant	Cerebral Infarction	Brain	Data unavailable	None
+19	582927	"[""T"",""A""]"	BSG	ENSG00000172270	3_prime_UTR_variant	Coronary Arteriosclerosis	Heart	Data unavailable	None
+19	655608	"[""T"",""C""]"	RNF126	ENSG00000070423	intron_variant	"Leukemia, Myelocytic, Acute"	Blood	Critical	"A type of cancer of the blood and bone marrow with excess immature white blood cells. AML progresses rapidly, with myeloid cells interfering with the production of normal white blood cells, red blood cells, and platelets."
+19	657666	"[""C"",""T""]"	RNF126	ENSG00000070423	intron_variant	"Leukemia, Myelocytic, Acute"	Blood	Critical	"A type of cancer of the blood and bone marrow with excess immature white blood cells. AML progresses rapidly, with myeloid cells interfering with the production of normal white blood cells, red blood cells, and platelets."
+19	689590	"[""C"",""G""]"	PRSS57	ENSG00000185198	intron_variant	Blood Protein Measurement	Blood	Data unavailable	None
+19	799770	"[""A"",""G""]"	PTBP1	ENSG00000011304	intron_variant	"Diabetes Mellitus, Non-Insulin-Dependent"	Blood	Data unavailable	None
+19	806673	"[""T"",""C""]"	PTBP1	ENSG00000011304	intron_variant	Blood Protein Measurement	Blood	Data unavailable	None
+19	807442	"[""G"",""C""]"	PTBP1	ENSG00000011304	intron_variant	Red Blood Cell Count measurement	Blood	Data unavailable	"Red Blood Cell count likely outside of the typical range. May be indicative of a variety of diseases including cancer, anemia, and others."
+19	862912	"[""C"",""T""]"	CFD	ENSG00000197766	intron_variant	Age related macular degeneration	Eye	Data unavailable	None
+19	877437	"[""G"",""C""]"	MED16	ENSG00000175221	intron_variant	Blood Protein Measurement	Blood	Data unavailable	None
+19	920642	"[""T"",""A""]"	KISS1R	ENSG00000116014	missense_variant	Choroid Plexus Papilloma	Brain	Data unavailable	"An uncommon, benign (WHO grade I) intraventricular tumor. They can occur in pediatric (more commonly) and adult populations."
+19	941603	"[""A"",""G""]"	ARID3A	ENSG00000116017	intron_variant	Primary biliary cirrhosis	Liver	Data unavailable	None
+19	950694	"[""G"",""A""]"	ARID3A	ENSG00000116017	intron_variant	Age at menopause	Uterus	Low	Male patient
+19	10692116	"[""CTGCAGCCAGGCCG"",""CCGCAGCCAGGCCA""]"	AP1M2	ENSG00000129354	intron_variant	Low density lipoprotein cholesterol measurement	Blood	Data unavailable	None
+19	44899959	"[""A"",""T""]"	ZNF285	ENSG00000267508	intron_variant	Mental deterioration	Brain	Data unavailable	None
+19	48591631	"[""G"",""GA""]"	PLA2G4C	ENSG00000105499	intron_variant	"ICHTHYOSIS, CONGENITAL, AUTOSOMAL RECESSIVE 14"	Skin	Data unavailable	"Congenital ichthyosis is a collective name for a group of monogenetic disorders of cornification, sometimes associated with systemic symptoms. There may be an abnormal quality or quantity of scale produced, abnormal thickness of stratum corneum or abnormal keratinocyte kinetics, often associated with skin inflammation. "
+19	54863017	"[""T"",""C""]"	CTD-2587H19.1	ENSG00000268802	non_coding_transcript_exon_variant	Blood Protein Measurement	Blood	Data unavailable	None
+20	1136156	"[""C"",""A""]"	PSMF1	ENSG00000125818	intron_variant	"Leukemia, Myelocytic, Acute"	Blood	Critical	"A type of cancer of the blood and bone marrow with excess immature white blood cells. AML progresses rapidly, with myeloid cells interfering with the production of normal white blood cells, red blood cells, and platelets."
+21	46353985	"[""A"",""G""]"	C21orf67	ENSG00000183250	3_prime_UTR_variant	"Microcephalic Osteodysplastic Primordial Dwarfism, Type II"	Skeleton	Data unavailable	None
+22	50258690	"[""C"",""T""]"	ZBED4	ENSG00000100426	intron_variant	Diverticular Diseases	Large Intestine	Data unavailable	None

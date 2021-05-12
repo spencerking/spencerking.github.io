@@ -1,0 +1,622 @@
+locus	alleles	gene_symbol	gene_id	major_consequence	exac_nfe_allele	exac_nfe_maf	exac_maf	damaging	diseaseName																												
+1:1787378	"[""G"",""A""]"	GNB1	ENSG00000078369	intron_variant	NA	NA	NA	FALSE	Muscle hypotonia																												
+1:3412644	"[""G"",""A""]"	MEGF6	ENSG00000162591	intron_variant	NA	NA	NA	FALSE	LEFT VENTRICULAR NONCOMPACTION 8																												
+1:8362754	"[""T"",""C""]"	NA	NA	NA	NA	NA	NA	NA	Retinitis Pigmentosa																												
+1:15445655	"[""GTGC"",""GCGG""]"	TMEM51-AS1	ENSG00000175147	intron_variant	NA	NA	NA	FALSE	"Pancreatitis, Chronic"																												
+1:21318845	"[""AAT"",""A""]"	EIF4G3	ENSG00000075151	intron_variant	NA	NA	NA	FALSE	Body mass index																												
+1:41374150	"[""T"",""C""]"	NA	NA	NA	NA	NA	NA	NA	Bipolar Disorder																												
+1:85581241	"[""A"",""C""]"	WDR63	ENSG00000162643	intron_variant	NA	NA	NA	FALSE	"Leukemia, Myelocytic, Acute"																												
+1:94042830	"[""C"",""CG""]"	BCAR3	ENSG00000137936	intron_variant	NA	NA	NA	FALSE	"Night blindness, congenital stationary"																												
+1:156314104	"[""T"",""C""]"	TSACC	ENSG00000163467	intron_variant	NA	NA	NA	FALSE	Red Blood Cell Count measurement																												
+1:159303251	"[""G"",""C""]"	NA	NA	NA	NA	NA	NA	NA	C-reactive protein measurement																												
+1:168291219	"[""G"",""A""]"	NA	NA	NA	NA	NA	NA	NA	"ACTH Deficiency, Isolated"																												
+1:179575782	"[""G"",""A""]"	TDRD5	ENSG00000162782	intron_variant	NA	NA	NA	FALSE	Idiopathic Nephrotic Syndrome																												
+1:204196482	"[""C"",""T""]"	PLEKHA6	ENSG00000143850	intron_variant	NA	NA	NA	FALSE	Malignant neoplasm of breast																												
+1:206773822	"[""C"",""T""]"	EIF2D	ENSG00000143486	intron_variant	NA	NA	NA	FALSE	"Lymphoma, Non-Hodgkin"																												
+2:112496	"[""A"",""C""]"	NA	NA	NA	NA	NA	NA	NA	Bipolar Disorder																												
+2:279705	"[""C"",""T""]"	FAM150B	ENSG00000189292	3_prime_UTR_variant	NA	NA	NA	FALSE	Coronary Artery Disease																												
+2:292753	"[""C"",""T""]"	AC079779.4	ENSG00000228643	intron_variant	NA	NA	NA	FALSE	Body mass index																												
+2:602036	"[""C"",""T""]"	NA	NA	NA	NA	NA	NA	NA	Obesity																												
+2:614168	"[""A"",""G""]"	NA	NA	NA	NA	NA	NA	NA	Age at menarche																												
+2:621461	"[""A"",""C""]"	NA	NA	NA	NA	NA	NA	NA	Body mass index																												
+2:621558	"[""C"",""T""]"	NA	NA	NA	NA	NA	NA	NA	Body mass index																												
+2:622225	"[""T"",""G""]"	NA	NA	NA	NA	NA	NA	NA	Hip circumference																												
+2:622531	"[""C"",""T""]"	NA	NA	NA	NA	NA	NA	NA	Body mass index procedure																												
+2:624034	"[""G"",""C""]"	NA	NA	NA	NA	NA	NA	NA	Obesity																												
+2:624678	"[""G"",""A""]"	NA	NA	NA	NA	NA	NA	NA	Body mass index procedure																												
+2:629244	"[""A"",""C""]"	NA	NA	NA	NA	NA	NA	NA	Body mass index procedure																												
+2:629510	"[""C"",""A""]"	NA	NA	NA	NA	NA	NA	NA	Waist-Hip Ratio																												
+2:632028	"[""C"",""T""]"	NA	NA	NA	NA	NA	NA	NA	Obesity																												
+2:634905	"[""T"",""C""]"	NA	NA	NA	NA	NA	NA	NA	Asthma																												
+2:635721	"[""T"",""C""]"	NA	NA	NA	NA	NA	NA	NA	Waist Circumference																												
+2:637597	"[""C"",""T""]"	NA	NA	NA	NA	NA	NA	NA	Body mass index procedure																												
+2:637830	"[""A"",""G""]"	NA	NA	NA	NA	NA	NA	NA	Body mass index procedure																												
+2:638144	"[""G"",""T""]"	NA	NA	NA	NA	NA	NA	NA	Body mass index procedure																												
+2:642499	"[""C"",""G""]"	NA	NA	NA	NA	NA	NA	NA	Uric acid measurement (procedure)																												
+2:644953	"[""A"",""G""]"	NA	NA	NA	NA	NA	NA	NA	Body mass index procedure																												
+2:646767	"[""G"",""A""]"	NA	NA	NA	NA	NA	NA	NA	Body mass index procedure																												
+2:647760	"[""A"",""G""]"	NA	NA	NA	NA	NA	NA	NA	Body mass index procedure																												
+2:647861	"[""T"",""C""]"	NA	NA	NA	NA	NA	NA	NA	Body mass index procedure																												
+2:648198	"[""C"",""T""]"	NA	NA	NA	NA	NA	NA	NA	Body mass index procedure																												
+2:651599	"[""A"",""T""]"	NA	NA	NA	NA	NA	NA	NA	Obesity																												
+2:653623	"[""C"",""G""]"	NA	NA	NA	NA	NA	NA	NA	Uric acid measurement (procedure)																												
+2:43334790	"[""GA"",""G""]"	NA	NA	NA	NA	NA	NA	NA	Coronary Artery Disease																												
+2:47470996	"[""G"",""C""]"	AC073283.4	ENSG00000234690	intron_variant	NA	NA	NA	FALSE	Hereditary Nonpolyposis Colorectal Cancer																												
+2:47480701	"[""ACGCTCAC"",""AAGCTCAT""]"	AC073283.4	ENSG00000234690	intron_variant	NA	NA	NA	FALSE	"Neoplastic Syndromes, Hereditary"																												
+2:85432404	"[""A"",""C""]"	TCF7L1	ENSG00000152284	intron_variant	NA	NA	NA	FALSE	Platelet mean volume determination (procedure)																												
+2:108314649	"[""C"",""G""]"	NA	NA	NA	NA	NA	NA	NA	Triglycerides measurement																												
+2:109018801	"[""A"",""G""]"	NA	NA	NA	NA	NA	NA	NA	Alzheimer's Disease																												
+2:178781157	"[""C"",""T""]"	PDE11A	ENSG00000128655	intron_variant	NA	NA	NA	FALSE	"Myopathy, Early-Onset, with Fatal Cardiomyopathy"																												
+2:190999673	"[""C"",""T""]"	C2orf88	ENSG00000187699	intron_variant	NA	NA	NA	FALSE	"CANDIDIASIS, FAMILIAL, 7"																												
+2:202552837	"[""G"",""C""]"	MPP4	ENSG00000082126	intron_variant	NA	NA	NA	FALSE	"Pulmonary Hypertension, Primary, 1"																												
+2:224844919	"[""C"",""G""]"	SERPINE2	ENSG00000135919	intron_variant	NA	NA	NA	FALSE	"Leukemia, Myelocytic, Acute"																												
+2:227052395	"[""CCT"",""CA""]"	NA	NA	NA	NA	NA	NA	NA	Hematuria																												
+2:227893863	"[""C"",""T""]"	COL4A4	ENSG00000081052	intron_variant	NA	NA	NA	FALSE	Malignant neoplasm of breast																												
+2:233616709	"[""A"",""G""]"	GIGYF2	ENSG00000204120	intron_variant	NA	NA	NA	FALSE	Bilirubin measurement																												
+2:233760761	"[""T"",""TACTCCTCG""]"	NGEF	ENSG00000066248	intron_variant	NA	NA	NA	FALSE	"Crigler Najjar syndrome, type 1"																												
+2:240456083	"[""G"",""A""]"	NA	NA	NA	NA	NA	NA	NA	Coronary heart disease																												
+2:241526862	"[""C"",""T""]"	CAPN10	ENSG00000142330	intron_variant	NA	NA	NA	FALSE	Systolic Pressure																												
+3:15645240	"[""C"",""T""]"	BTD	ENSG00000169814	intron_variant	NA	NA	NA	FALSE	Biotinidase Deficiency																												
+3:27468223	"[""T"",""C""]"	SLC4A7	ENSG00000033867	intron_variant	NA	NA	NA	FALSE	Breast Carcinoma																												
+3:30688511	"[""G"",""A""]"	TGFBR2	ENSG00000163513	intron_variant	NA	NA	NA	FALSE	"Aortic aneurysm, familial thoracic 3"																												
+3:58078717	"[""G"",""A""]"	FLNB	ENSG00000136068	intron_variant	NA	NA	NA	FALSE	Boomerang dysplasia																												
+3:133601021	"[""G"",""A""]"	RAB6B	ENSG00000154917	intron_variant	NA	NA	NA	FALSE	Malignant neoplasm of breast																												
+3:152066793	"[""A"",""G""]"	MBNL1	ENSG00000152601	intron_variant	NA	NA	NA	FALSE	"Pyloric Stenosis, Hypertrophic"																												
+3:166172069	"[""A"",""C""]"	NA	NA	NA	NA	NA	NA	NA	Pseudocholinesterase Measurement																												
+3:173684990	"[""G"",""A""]"	NLGN1	ENSG00000169760	intron_variant	NA	NA	NA	FALSE	"Leukemia, Myelocytic, Acute"																												
+3:186948673	"[""A"",""G""]"	MASP1	ENSG00000127241	intron_variant	NA	NA	NA	FALSE	"Diabetes Mellitus, Non-Insulin-Dependent"																												
+4:1804377	"[""G"",""A""]"	FGFR3	ENSG00000068078	intron_variant	NA	NA	NA	FALSE	Achondroplasia																												
+4:5711404	"[""T"",""C""]"	NA	NA	NA	NA	NA	NA	NA	Ellis-Van Creveld Syndrome																												
+4:10139978	"[""G"",""C""]"	NA	NA	NA	NA	NA	NA	NA	"Arthritis, Gouty"																												
+4:10150807	"[""T"",""C""]"	NA	NA	NA	NA	NA	NA	NA	"Arthritis, Gouty"																												
+4:10176593	"[""G"",""A""]"	NA	NA	NA	NA	NA	NA	NA	"Arthritis, Gouty"																												
+4:21244175	"[""G"",""A""]"	KCNIP4	ENSG00000185774	intron_variant	NA	NA	NA	FALSE	Adolescent idiopathic scoliosis																												
+4:41746162	"[""T"",""A""]"	PHOX2B	ENSG00000109132	3_prime_UTR_variant	NA	NA	NA	FALSE	Dysautonomia																												
+4:121705035	"[""T"",""C""]"	PRDM5	ENSG00000138738	intron_variant	NA	NA	NA	FALSE	Waist-Hip Ratio																												
+4:165415564	"[""T"",""A""]"	NA	NA	NA	NA	NA	NA	NA	Vital capacity																												
+4:186287734	"[""T"",""C""]"	LRP2BP	ENSG00000109771	3_prime_UTR_variant	NA	NA	NA	FALSE	Hereditary Factor XI Deficiency																												
+5:218356	"[""T"",""C""]"	SDHA	ENSG00000073578	5_prime_UTR_variant	NA	NA	NA	FALSE	"Neoplastic Syndromes, Hereditary"																												
+5:13850651	"[""T"",""C""]"	DNAH5	ENSG00000039139	intron_variant	NA	NA	NA	FALSE	Ciliary Motility Disorders																												
+5:34504277	"[""G"",""A""]"	NA	NA	NA	NA	NA	NA	NA	Red Blood Cell Count measurement																												
+5:75359901	"[""G"",""A""]"	NA	NA	NA	NA	NA	NA	NA	Coronary heart disease																												
+5:80399551	"[""TAA"",""T""]"	RASGRF2	ENSG00000113319	intron_variant	NA	NA	NA	FALSE	Hair Color																												
+5:123117450	"[""G"",""C""]"	NA	NA	NA	NA	NA	NA	NA	Systolic Pressure																												
+5:143317730	"[""G"",""A""]"	NA	NA	NA	NA	NA	NA	NA	Anorexia Nervosa																												
+5:149981158	"[""C"",""T""]"	SYNPO	ENSG00000171992	intron_variant	NA	NA	NA	FALSE	"EPIPHYSEAL DYSPLASIA, MULTIPLE, 4"																												
+5:169390084	"[""G"",""A""]"	DOCK2	ENSG00000134516	intron_variant	NA	NA	NA	FALSE	Adolescent idiopathic scoliosis																												
+5:173931151	"[""C"",""T""]"	RP11-267A15.1	ENSG00000249306	intron_variant	NA	NA	NA	FALSE	Red Blood Cell Count measurement																												
+6:226284	"[""C"",""G""]"	NA	NA	NA	NA	NA	NA	NA	Suntan																												
+6:385735	"[""T"",""C""]"	NA	NA	NA	NA	NA	NA	NA	Alopecia																												
+6:403799	"[""A"",""G""]"	IRF4	ENSG00000137265	intron_variant	NA	NA	NA	FALSE	Hair Color																												
+6:408079	"[""C"",""T""]"	IRF4	ENSG00000137265	3_prime_UTR_variant	NA	NA	NA	FALSE	Celiac Disease																												
+6:409119	"[""A"",""G""]"	IRF4	ENSG00000137265	3_prime_UTR_variant	NA	NA	NA	FALSE	Asthma																												
+6:411064	"[""A"",""G""]"	IRF4	ENSG00000137265	3_prime_UTR_variant	NA	NA	NA	FALSE	Malignant Neoplasms																												
+6:412802	"[""G"",""A""]"	NA	NA	NA	NA	NA	NA	NA	Autoimmune Diseases																												
+6:417727	"[""A"",""C""]"	NA	NA	NA	NA	NA	NA	NA	Asthma																												
+6:442357	"[""G"",""A""]"	NA	NA	NA	NA	NA	NA	NA	Hodgkin Disease																												
+6:457748	"[""C"",""A""]"	NA	NA	NA	NA	NA	NA	NA	Bipolar Disorder																												
+6:464426	"[""T"",""C""]"	NA	NA	NA	NA	NA	NA	NA	Bipolar Disorder																												
+6:466033	"[""C"",""T""]"	NA	NA	NA	NA	NA	NA	NA	Freckles																												
+6:470930	"[""G"",""T""]"	NA	NA	NA	NA	NA	NA	NA	Alopecia																												
+6:471136	"[""C"",""A""]"	NA	NA	NA	NA	NA	NA	NA	Skin Pigmentation																												
+6:485078	"[""G"",""A""]"	NA	NA	NA	NA	NA	NA	NA	Hair Color																												
+6:514991	"[""C"",""T""]"	EXOC2	ENSG00000112685	intron_variant	NA	NA	NA	FALSE	Hair Color																												
+6:537157	"[""C"",""T""]"	EXOC2	ENSG00000112685	intron_variant	NA	NA	NA	FALSE	Alopecia																												
+6:542159	"[""A"",""G""]"	EXOC2	ENSG00000112685	intron_variant	NA	NA	NA	FALSE	Hair Color																												
+6:553489	"[""T"",""C""]"	EXOC2	ENSG00000112685	intron_variant	NA	NA	NA	FALSE	Suntan																												
+6:577820	"[""A"",""G""]"	EXOC2	ENSG00000112685	intron_variant	NA	NA	NA	FALSE	Psoriasis																												
+6:637465	"[""C"",""T""]"	EXOC2	ENSG00000112685	intron_variant	NA	NA	NA	FALSE	Glaucoma																												
+6:642017	"[""C"",""T""]"	EXOC2	ENSG00000112685	intron_variant	NA	NA	NA	FALSE	"Glaucoma, Open-Angle"																												
+6:670871	"[""C"",""T""]"	EXOC2	ENSG00000112685	intron_variant	NA	NA	NA	FALSE	Eosinophil count procedure																												
+6:703142	"[""T"",""C""]"	NA	NA	NA	NA	NA	NA	NA	Body Height																												
+6:20641105	"[""G"",""A""]"	CDKAL1	ENSG00000145996	intron_variant	NA	NA	NA	FALSE	"Diabetes Mellitus, Non-Insulin-Dependent"																												
+6:30011802	"[""C"",""A""]"	ZNRD1-AS1	ENSG00000204623	intron_variant	NA	NA	NA	FALSE	"HUMAN IMMUNODEFICIENCY VIRUS TYPE 1, SUSCEPTIBILITY TO"																												
+6:30171922	"[""T"",""C""]"	TRIM26	ENSG00000234127	intron_variant	NA	NA	NA	FALSE	Rheumatoid Arthritis																												
+6:31125705	"[""C"",""G""]"	CCHCR1	ENSG00000204536	5_prime_UTR_variant	NA	NA	NA	FALSE	"HUMAN IMMUNODEFICIENCY VIRUS TYPE 1, SUSCEPTIBILITY TO"																												
+6:31272915	"[""C"",""A""]"	NA	NA	NA	NA	NA	NA	NA	"Diabetes Mellitus, Insulin-Dependent"																												
+6:31303939	"[""G"",""C""]"	NA	NA	NA	NA	NA	NA	NA	"HUMAN IMMUNODEFICIENCY VIRUS TYPE 1, SUSCEPTIBILITY TO"																												
+6:31350802	"[""G"",""A""]"	NA	NA	NA	NA	NA	NA	NA	HIV Infections																												
+6:31472720	"[""G"",""T""]"	MICB	ENSG00000204516	intron_variant	NA	NA	NA	FALSE	Rheumatoid Arthritis																												
+6:32614863	"[""TCAAAATAAG"",""TGAAAATAAC""]"	NA	NA	NA	NA	NA	NA	NA	Sarcoidosis																												
+6:32762103	"[""T"",""C""]"	NA	NA	NA	NA	NA	NA	NA	Hepatitis B																												
+6:51912577	"[""C"",""A""]"	PKHD1	ENSG00000170927	intron_variant	NA	NA	NA	FALSE	Autosomal Recessive Polycystic Kidney Disease																												
+6:56022442	"[""C"",""T""]"	COL21A1	ENSG00000124749	intron_variant	NA	NA	NA	FALSE	Vital capacity																												
+6:111205242	"[""C"",""G""]"	AMD1	ENSG00000123505	intron_variant	NA	NA	NA	FALSE	Hypothyroidism																												
+6:117252341	"[""A"",""G""]"	RFX6	ENSG00000185002	intron_variant	NA	NA	NA	FALSE	Waist-Hip Ratio																												
+6:120761514	"[""G"",""A""]"	NA	NA	NA	NA	NA	NA	NA	"Leukemia, Myelocytic, Acute"																												
+6:123516162	"[""C"",""A""]"	NA	NA	NA	NA	NA	NA	NA	"VENTRICULAR TACHYCARDIA, CATECHOLAMINERGIC POLYMORPHIC, 1 (disorder)"																												
+6:135142809	"[""G"",""A""]"	NA	NA	NA	NA	NA	NA	NA	Red Blood Cell Count measurement																												
+6:135207584	"[""T"",""C""]"	NA	NA	NA	NA	NA	NA	NA	Corpuscular Hemoglobin Concentration Mean																												
+6:152488422	"[""T"",""C""]"	SYNE1	ENSG00000131018	intron_variant	NA	NA	NA	FALSE	"SPINOCEREBELLAR ATAXIA, AUTOSOMAL RECESSIVE 8 (disorder)"																												
+6:154097279	"[""TA"",""T""]"	NA	NA	NA	NA	NA	NA	NA	Postoperative Nausea and Vomiting																												
+6:163932893	"[""C"",""T""]"	QKI	ENSG00000112531	intron_variant	NA	NA	NA	FALSE	Mean blood pressure																												
+7:55163737	"[""C"",""G""]"	EGFR	ENSG00000146648	intron_variant	NA	NA	NA	FALSE	Head and Neck Neoplasms																												
+7:81733271	"[""C"",""A""]"	CACNA2D1	ENSG00000153956	intron_variant	NA	NA	NA	FALSE	"Diabetes Mellitus, Non-Insulin-Dependent"																												
+7:87423940	"[""CA"",""C""]"	RUNDC3B	ENSG00000105784	intron_variant	NA	NA	NA	FALSE	Low phospholipid-associated cholelithiasis																												
+7:101160333	"[""T"",""C""]"	COL26A1	ENSG00000160963	intron_variant	NA	NA	NA	FALSE	Body mass index																												
+7:101164751	"[""G"",""A""]"	COL26A1	ENSG00000160963	intron_variant	NA	NA	NA	FALSE	Amyotrophic Lateral Sclerosis																												
+7:110448467	"[""A"",""C""]"	IMMP2L	ENSG00000184903	intron_variant	NA	NA	NA	FALSE	Bone Mineral Density Test																												
+7:114614352	"[""TTA"",""T""]"	MDFIC	ENSG00000135272	intron_variant	NA	NA	NA	FALSE	Pervasive Development Disorder																												
+7:121159628	"[""C"",""T""]"	NA	NA	NA	NA	NA	NA	NA	Bone Mineral Density Test																												
+7:133752015	"[""ATG"",""ACA""]"	NA	NA	NA	NA	NA	NA	NA	mathematical ability																												
+8:9137002	"[""C"",""G""]"	RP11-115J16.1	ENSG00000254235	intron_variant	NA	NA	NA	FALSE	Coronary Artery Disease																												
+8:19732587	"[""T"",""C""]"	NA	NA	NA	NA	NA	NA	NA	"Leukemia, Myelocytic, Acute"																												
+8:19970337	"[""C"",""T""]"	AC100802.3	ENSG00000253775	intron_variant	NA	NA	NA	FALSE	Triglycerides measurement																												
+8:21946224	"[""C"",""T""]"	NA	NA	NA	NA	NA	NA	NA	Atrial Fibrillation																												
+8:25607174	"[""C"",""T""]"	NA	NA	NA	NA	NA	NA	NA	Waist-Hip Ratio																												
+8:40490456	"[""A"",""T""]"	ZMAT4	ENSG00000165061	intron_variant	NA	NA	NA	FALSE	Serum albumin measurement																												
+8:57565337	"[""T"",""C""]"	RP11-17A4.4	ENSG00000254055	intron_variant	NA	NA	NA	FALSE	Serum albumin measurement																												
+8:81444935	"[""T"",""C""]"	NA	NA	NA	NA	NA	NA	NA	Charcot-Marie-Tooth Disease																												
+8:127015257	"[""G"",""A""]"	NA	NA	NA	NA	NA	NA	NA	Malignant neoplasm of urinary bladder																												
+8:133185294	"[""C"",""T""]"	KCNQ3	ENSG00000184156	intron_variant	NA	NA	NA	FALSE	Blood Protein Measurement																												
+8:142275662	"[""T"",""C""]"	SLC45A4	ENSG00000022567	intron_variant	NA	NA	NA	FALSE	Impaired cognition																												
+9:211762	"[""C"",""G""]"	NA	NA	NA	NA	NA	NA	NA	Hair Color																												
+9:224742	"[""A"",""G""]"	DOCK8	ENSG00000107099	intron_variant	NA	NA	NA	FALSE	Cutaneous Melanoma																												
+9:239313	"[""G"",""C""]"	DOCK8	ENSG00000107099	intron_variant	NA	NA	NA	FALSE	Platelet mean volume determination (procedure)																												
+9:331490	"[""T"",""G""]"	DOCK8	ENSG00000107099	intron_variant	NA	NA	NA	FALSE	Platelet mean volume determination (procedure)																												
+9:607178	"[""C"",""G""]"	KANK1	ENSG00000107104	intron_variant	NA	NA	NA	FALSE	Body Height																												
+9:641720	"[""G"",""C""]"	KANK1	ENSG00000107104	intron_variant	NA	NA	NA	FALSE	"Leukemia, Myelocytic, Acute"																												
+9:648732	"[""T"",""A""]"	KANK1	ENSG00000107104	intron_variant	NA	NA	NA	FALSE	"Leukemia, Myelocytic, Acute"																												
+9:657340	"[""G"",""A""]"	KANK1	ENSG00000107104	intron_variant	NA	NA	NA	FALSE	Esophageal Neoplasms																												
+9:677938	"[""G"",""T""]"	KANK1	ENSG00000107104	intron_variant	NA	NA	NA	FALSE	Nicotine Dependence																												
+9:680714	"[""G"",""A""]"	KANK1	ENSG00000107104	intron_variant	NA	NA	NA	FALSE	Uterine Fibroids																												
+9:681645	"[""G"",""A""]"	KANK1	ENSG00000107104	intron_variant	NA	NA	NA	FALSE	Basal cell carcinoma																												
+9:794761	"[""C"",""T""]"	NA	NA	NA	NA	NA	NA	NA	"Leukemia, Myelocytic, Acute"																												
+9:804231	"[""C"",""T""]"	NA	NA	NA	NA	NA	NA	NA	Uterine Fibroids																												
+9:804436	"[""T"",""C""]"	NA	NA	NA	NA	NA	NA	NA	Malignant Testicular Germ Cell Tumor																												
+9:818693	"[""T"",""C""]"	NA	NA	NA	NA	NA	NA	NA	Malignant Testicular Germ Cell Tumor																												
+9:855091	"[""A"",""G""]"	DMRT1	ENSG00000137090	intron_variant	NA	NA	NA	FALSE	Malignant Testicular Germ Cell Tumor																												
+9:863635	"[""C"",""T""]"	DMRT1	ENSG00000137090	intron_variant	NA	NA	NA	FALSE	Teratoma																												
+9:1304815	"[""G"",""A""]"	NA	NA	NA	NA	NA	NA	NA	Adolescent idiopathic scoliosis																												
+9:1670258	"[""C"",""T""]"	NA	NA	NA	NA	NA	NA	NA	Adolescent idiopathic scoliosis																												
+9:1709382	"[""T"",""G""]"	NA	NA	NA	NA	NA	NA	NA	Age at menarche																												
+9:2339739	"[""A"",""G""]"	NA	NA	NA	NA	NA	NA	NA	Vital capacity																												
+9:2403909	"[""G"",""A""]"	NA	NA	NA	NA	NA	NA	NA	White Blood Cell Count procedure																												
+9:2404563	"[""A"",""G""]"	NA	NA	NA	NA	NA	NA	NA	White Blood Cell Count procedure																												
+9:2493751	"[""T"",""G""]"	RP11-125B21.2	ENSG00000236404	intron_variant	NA	NA	NA	FALSE	Diastolic blood pressure																												
+9:2496480	"[""T"",""A""]"	RP11-125B21.2	ENSG00000236404	intron_variant	NA	NA	NA	FALSE	Systolic Pressure																												
+9:2548556	"[""C"",""T""]"	RP11-125B21.2	ENSG00000236404	intron_variant	NA	NA	NA	FALSE	Mental disorders																												
+9:2602279	"[""T"",""C""]"	RP11-125B21.2	ENSG00000236404	intron_variant	NA	NA	NA	FALSE	Eosinophil count procedure																												
+9:2621030	"[""C"",""A""]"	RP11-125B21.2	ENSG00000236404	intron_variant	NA	NA	NA	FALSE	Carotid Artery Diseases																												
+9:2621145	"[""T"",""A""]"	RP11-125B21.2	ENSG00000236404	intron_variant	NA	NA	NA	FALSE	Myocardial Ischemia																												
+9:2622278	"[""G"",""A""]"	VLDLR	ENSG00000147852	splice_region_variant	A	6.11E-01	NA	FALSE	White Blood Cell Count procedure																												
+9:2623615	"[""G"",""A""]"	VLDLR	ENSG00000147852	intron_variant	NA	NA	NA	FALSE	Red Blood Cell Count measurement																												
+9:2668187	"[""A"",""C""]"	NA	NA	NA	NA	NA	NA	NA	Vascular Endothelial Growth Factor Measurement																												
+9:2673933	"[""C"",""A""]"	NA	NA	NA	NA	NA	NA	NA	Vascular Endothelial Growth Factor Measurement																												
+9:2675698	"[""A"",""G""]"	NA	NA	NA	NA	NA	NA	NA	Vascular Endothelial Growth Factor Measurement																												
+9:2681175	"[""T"",""A""]"	NA	NA	NA	NA	NA	NA	NA	Vascular Endothelial Growth Factor Measurement																												
+9:2691186	"[""A"",""G""]"	NA	NA	NA	NA	NA	NA	NA	"Diabetes Mellitus, Non-Insulin-Dependent"																												
+9:2691951	"[""C"",""T""]"	NA	NA	NA	NA	NA	NA	NA	Vascular Endothelial Growth Factor Measurement																												
+9:2692583	"[""C"",""G""]"	NA	NA	NA	NA	NA	NA	NA	Myocardial Ischemia																												
+9:2692622	"[""C"",""G""]"	NA	NA	NA	NA	NA	NA	NA	Vascular Endothelial Growth Factor Measurement																												
+9:2696555	"[""G"",""A""]"	NA	NA	NA	NA	NA	NA	NA	Birth Weight																												
+9:2982931	"[""T"",""C""]"	CARM1P1	ENSG00000227835	intron_variant	NA	NA	NA	FALSE	Major Depressive Disorder																												
+9:2983774	"[""C"",""A""]"	CARM1P1	ENSG00000227835	intron_variant	NA	NA	NA	FALSE	Major Depressive Disorder																												
+9:3014254	"[""T"",""C""]"	CARM1P1	ENSG00000227835	intron_variant	NA	NA	NA	FALSE	Smoking																												
+9:3105102	"[""C"",""T""]"	NA	NA	NA	NA	NA	NA	NA	mathematical ability																												
+9:3929424	"[""C"",""T""]"	GLIS3	ENSG00000107249	intron_variant	NA	NA	NA	FALSE	Alzheimer's Disease																												
+9:4039727	"[""G"",""T""]"	GLIS3	ENSG00000107249	intron_variant	NA	NA	NA	FALSE	White Blood Cell Count procedure																												
+9:4118111	"[""G"",""T""]"	GLIS3	ENSG00000107249	missense_variant	T	6.92E-01	6.61E-01	FALSE	Body Height																												
+9:4120648	"[""G"",""A""]"	GLIS3	ENSG00000107249	intron_variant	NA	NA	NA	FALSE	Forced expiratory volume function																												
+9:4160364	"[""G"",""A""]"	GLIS3	ENSG00000107249	intron_variant	NA	NA	NA	FALSE	Body Height																												
+9:4215308	"[""G"",""A""]"	GLIS3	ENSG00000107249	intron_variant	NA	NA	NA	FALSE	Central corneal thickness																												
+9:4216751	"[""T"",""C""]"	GLIS3	ENSG00000107249	intron_variant	NA	NA	NA	FALSE	Tonometry																												
+9:4217028	"[""G"",""A""]"	GLIS3	ENSG00000107249	intron_variant	NA	NA	NA	FALSE	Angle Closure Glaucoma																												
+9:4220832	"[""C"",""G""]"	GLIS3	ENSG00000107249	intron_variant	NA	NA	NA	FALSE	Tonometry																												
+9:4223660	"[""T"",""C""]"	GLIS3	ENSG00000107249	intron_variant	NA	NA	NA	FALSE	Thyroxine measurement																												
+9:4232588	"[""G"",""T""]"	GLIS3	ENSG00000107249	intron_variant	NA	NA	NA	FALSE	mathematical ability																												
+9:4237041	"[""T"",""C""]"	GLIS3	ENSG00000107249	intron_variant	NA	NA	NA	FALSE	mathematical ability																												
+9:4237546	"[""A"",""G""]"	GLIS3	ENSG00000107249	intron_variant	NA	NA	NA	FALSE	Tonometry																												
+9:4267209	"[""A"",""G""]"	GLIS3	ENSG00000107249	intron_variant	NA	NA	NA	FALSE	Thyroid stimulating hormone measurement																												
+9:4285119	"[""C"",""G""]"	GLIS3	ENSG00000107249	intron_variant	NA	NA	NA	FALSE	Glucose measurement																												
+9:4289050	"[""C"",""A""]"	GLIS3	ENSG00000107249	intron_variant	NA	NA	NA	FALSE	"Diabetes Mellitus, Non-Insulin-Dependent"																												
+9:4290085	"[""G"",""C""]"	GLIS3	ENSG00000107249	intron_variant	NA	NA	NA	FALSE	Fasting blood glucose measurement																												
+9:4290823	"[""A"",""T""]"	GLIS3	ENSG00000107249	intron_variant	NA	NA	NA	FALSE	Diabetes																												
+9:4291747	"[""C"",""G""]"	GLIS3	ENSG00000107249	intron_variant	NA	NA	NA	FALSE	"Diabetes Mellitus, Insulin-Dependent"																												
+9:4291928	"[""A"",""C""]"	GLIS3	ENSG00000107249	intron_variant	NA	NA	NA	FALSE	Body Height																												
+9:4292083	"[""G"",""A""]"	GLIS3	ENSG00000107249	intron_variant	NA	NA	NA	FALSE	Dermatomyositis																												
+9:4292152	"[""A"",""G""]"	GLIS3	ENSG00000107249	intron_variant	NA	NA	NA	FALSE	Fasting blood glucose measurement																												
+9:4293150	"[""A"",""C""]"	GLIS3	ENSG00000107249	intron_variant	NA	NA	NA	FALSE	Birth Weight																												
+9:4295583	"[""A"",""G""]"	GLIS3	ENSG00000107249	intron_variant	NA	NA	NA	FALSE	Osteoarthritis of hip																												
+9:4389941	"[""G"",""C""]"	NA	NA	NA	NA	NA	NA	NA	Obsessive-Compulsive Disorder																												
+9:4390752	"[""C"",""G""]"	NA	NA	NA	NA	NA	NA	NA	"Diabetes Mellitus, Non-Insulin-Dependent"																												
+9:4459274	"[""G"",""A""]"	NA	NA	NA	NA	NA	NA	NA	Male infertility																												
+9:4481668	"[""T"",""C""]"	NA	NA	NA	NA	NA	NA	NA	Obsessive-Compulsive Disorder																												
+9:4482706	"[""T"",""C""]"	NA	NA	NA	NA	NA	NA	NA	Obsessive-Compulsive Disorder																												
+9:4507513	"[""A"",""G""]"	SLC1A1	ENSG00000106688	intron_variant	NA	NA	NA	FALSE	Schizophrenia																												
+9:4527752	"[""C"",""G""]"	SLC1A1	ENSG00000106688	intron_variant	NA	NA	NA	FALSE	Schizophrenia																												
+9:4557296	"[""C"",""G""]"	SLC1A1	ENSG00000106688	intron_variant	NA	NA	NA	FALSE	Seizures																												
+9:4559892	"[""C"",""T""]"	SLC1A1	ENSG00000106688	intron_variant	NA	NA	NA	FALSE	Obsessive-Compulsive Disorder																												
+9:4567353	"[""C"",""G""]"	SLC1A1	ENSG00000106688	intron_variant	NA	NA	NA	FALSE	Obsessive-Compulsive Disorder																												
+9:4576680	"[""T"",""C""]"	SLC1A1	ENSG00000106688	synonymous_variant	C	4.67E-01	2.81E-01	FALSE	Anxiety																												
+9:4576851	"[""G"",""C""]"	SLC1A1	ENSG00000106688	intron_variant	NA	NA	NA	FALSE	Autistic Disorder																												
+9:4594919	"[""C"",""G""]"	SPATA6L	ENSG00000106686	intron_variant	NA	NA	NA	FALSE	Obsessive-Compulsive Disorder																												
+9:4684397	"[""G"",""T""]"	CDC37L1	ENSG00000106993	intron_variant	NA	NA	NA	FALSE	"Leukemia, Myelocytic, Acute"																												
+9:4691570	"[""C"",""T""]"	CDC37L1	ENSG00000106993	intron_variant	NA	NA	NA	FALSE	"Leukemia, Myelocytic, Acute"																												
+9:4695068	"[""A"",""G""]"	CDC37L1	ENSG00000106993	intron_variant	NA	NA	NA	FALSE	"Leukemia, Myelocytic, Acute"																												
+9:4698416	"[""G"",""A""]"	CDC37L1	ENSG00000106993	intron_variant	NA	NA	NA	FALSE	"Leukemia, Myelocytic, Acute"																												
+9:4740251	"[""A"",""C""]"	AK3	ENSG00000147853	intron_variant	NA	NA	NA	FALSE	Body Height																												
+9:4744743	"[""T"",""C""]"	NA	NA	NA	NA	NA	NA	NA	Platelet Count measurement																												
+9:4763176	"[""T"",""C""]"	NA	NA	NA	NA	NA	NA	NA	Dengue Fever																												
+9:4763368	"[""C"",""A""]"	NA	NA	NA	NA	NA	NA	NA	Platelet Count measurement																												
+9:4767677	"[""C"",""T""]"	NA	NA	NA	NA	NA	NA	NA	Red Blood Cell Count measurement																												
+9:4772328	"[""C"",""G""]"	NA	NA	NA	NA	NA	NA	NA	Red Blood Cell Count measurement																												
+9:4774015	"[""C"",""T""]"	NA	NA	NA	NA	NA	NA	NA	Handedness																												
+9:4778777	"[""G"",""A""]"	NA	NA	NA	NA	NA	NA	NA	Red Blood Cell Count measurement																												
+9:4793798	"[""G"",""T""]"	RCL1	ENSG00000120158	intron_variant	NA	NA	NA	FALSE	Eosinophil count procedure																												
+9:4814948	"[""G"",""C""]"	RCL1	ENSG00000120158	intron_variant	NA	NA	NA	FALSE	Red Blood Cell Count measurement																												
+9:4834394	"[""A"",""G""]"	RCL1	ENSG00000120158	intron_variant	NA	NA	NA	FALSE	Platelet Count measurement																												
+9:4835574	"[""G"",""A""]"	RCL1	ENSG00000120158	intron_variant	NA	NA	NA	FALSE	Corpuscular Hemoglobin Concentration Mean																												
+9:4840380	"[""A"",""G""]"	RCL1	ENSG00000120158	intron_variant	NA	NA	NA	FALSE	Red Blood Cell Count measurement																												
+9:4843672	"[""C"",""G""]"	RCL1	ENSG00000120158	intron_variant	NA	NA	NA	FALSE	Red Blood Cell Count measurement																												
+9:4844265	"[""T"",""C""]"	RCL1	ENSG00000120158	intron_variant	NA	NA	NA	FALSE	Red Blood Cell Count measurement																												
+9:4844507	"[""G"",""T""]"	RCL1	ENSG00000120158	intron_variant	T	9.48E-01	8.76E-01	FALSE	"Leukemia, Myelocytic, Acute"																												
+9:4844704	"[""T"",""C""]"	RCL1	ENSG00000120158	intron_variant	C	2.40E-01	2.00E-01	FALSE	Red Blood Cell Count measurement																												
+9:4845242	"[""G"",""A""]"	RCL1	ENSG00000120158	intron_variant	NA	NA	NA	FALSE	"Leukemia, Myelocytic, Acute"																												
+9:4845520	"[""A"",""G""]"	RCL1	ENSG00000120158	intron_variant	NA	NA	NA	FALSE	Red Blood Cell Count measurement																												
+9:4847570	"[""T"",""C""]"	RCL1	ENSG00000120158	intron_variant	NA	NA	NA	FALSE	Red Blood Cell Count measurement																												
+9:4848297	"[""A"",""G""]"	RCL1	ENSG00000120158	intron_variant	NA	NA	NA	FALSE	Red Blood Cell Count measurement																												
+9:4849647	"[""T"",""C""]"	RCL1	ENSG00000120158	intron_variant	NA	NA	NA	FALSE	Mean Corpuscular Volume (result)																												
+9:4850613	"[""A"",""G""]"	RCL1	ENSG00000120158	intron_variant	NA	NA	NA	FALSE	Eosinophil count procedure																												
+9:4852599	"[""A"",""G""]"	RCL1	ENSG00000120158	intron_variant	NA	NA	NA	FALSE	Red Blood Cell Count measurement																												
+9:4853751	"[""A"",""G""]"	RCL1	ENSG00000120158	intron_variant	NA	NA	NA	FALSE	Red Blood Cell Count measurement																												
+9:4855858	"[""A"",""C""]"	RCL1	ENSG00000120158	intron_variant	NA	NA	NA	FALSE	Red Blood Cell Count measurement																												
+9:4855912	"[""C"",""T""]"	RCL1	ENSG00000120158	intron_variant	NA	NA	NA	FALSE	Corpuscular Hemoglobin Concentration Mean																												
+9:4856234	"[""G"",""A""]"	RCL1	ENSG00000120158	intron_variant	NA	NA	NA	FALSE	Platelet Count measurement																												
+9:4856877	"[""G"",""A""]"	RCL1	ENSG00000120158	intron_variant	NA	NA	NA	FALSE	Red Blood Cell Count measurement																												
+9:4860300	"[""A"",""G""]"	RCL1	ENSG00000120158	3_prime_UTR_variant	G	7.10E-01	6.95E-01	FALSE	Corpuscular Hemoglobin Concentration Mean																												
+9:4860643	"[""G"",""C""]"	RCL1	ENSG00000120158	3_prime_UTR_variant	NA	NA	NA	FALSE	Malignant neoplasm of breast																												
+9:4861479	"[""C"",""T""]"	RCL1	ENSG00000120158	intron_variant	NA	NA	NA	FALSE	Red Blood Cell Count measurement																												
+9:4863952	"[""A"",""G""]"	RCL1	ENSG00000120158	intron_variant	NA	NA	NA	FALSE	Corpuscular Hemoglobin Concentration Mean																												
+9:4865256	"[""A"",""G""]"	RCL1	ENSG00000120158	intron_variant	NA	NA	NA	FALSE	Corpuscular Hemoglobin Concentration Mean																												
+9:4865338	"[""C"",""T""]"	RCL1	ENSG00000120158	intron_variant	NA	NA	NA	FALSE	Red Blood Cell Count measurement																												
+9:4866010	"[""G"",""T""]"	RCL1	ENSG00000120158	intron_variant	NA	NA	NA	FALSE	Corpuscular Hemoglobin Concentration Mean																												
+9:4884849	"[""A"",""C""]"	RCL1	ENSG00000120158	non_coding_transcript_exon_variant	NA	NA	NA	FALSE	"Leukemia, Myelocytic, Acute"																												
+9:4885267	"[""A"",""G""]"	RCL1	ENSG00000120158	non_coding_transcript_exon_variant	NA	NA	NA	FALSE	"Leukemia, Myelocytic, Acute"																												
+9:4886080	"[""A"",""C""]"	NA	NA	NA	NA	NA	NA	NA	"Leukemia, Myelocytic, Acute"																												
+9:4886266	"[""A"",""G""]"	NA	NA	NA	NA	NA	NA	NA	"Leukemia, Myelocytic, Acute"																												
+9:4888441	"[""A"",""C""]"	NA	NA	NA	NA	NA	NA	NA	"Leukemia, Myelocytic, Acute"																												
+9:4888724	"[""T"",""C""]"	NA	NA	NA	NA	NA	NA	NA	"Leukemia, Myelocytic, Acute"																												
+9:4891797	"[""A"",""C""]"	NA	NA	NA	NA	NA	NA	NA	Platelet Count measurement																												
+9:4979730	"[""A"",""G""]"	NA	NA	NA	NA	NA	NA	NA	Malignant neoplasm of stomach																												
+9:4981602	"[""C"",""A""]"	NA	NA	NA	NA	NA	NA	NA	Asthma																												
+9:4981866	"[""G"",""T""]"	NA	NA	NA	NA	NA	NA	NA	Autoimmune Diseases																												
+9:4983311	"[""T"",""A""]"	NA	NA	NA	NA	NA	NA	NA	Polycythemia Vera																												
+9:4985879	"[""A"",""G""]"	JAK2	ENSG00000096968	intron_variant	NA	NA	NA	FALSE	Psoriasis																												
+9:4988761	"[""C"",""T""]"	JAK2	ENSG00000096968	intron_variant	NA	NA	NA	FALSE	Crohn Disease																												
+9:5003338	"[""G"",""A""]"	JAK2	ENSG00000096968	intron_variant	NA	NA	NA	FALSE	Hormone refractory prostate cancer																												
+9:5010192	"[""G"",""A""]"	JAK2	ENSG00000096968	intron_variant	NA	NA	NA	FALSE	Malignant tumor of cervix																												
+9:5059440	"[""C"",""T""]"	JAK2	ENSG00000096968	intron_variant	NA	NA	NA	FALSE	Hormone refractory prostate cancer																												
+9:5069837	"[""G"",""A""]"	JAK2	ENSG00000096968	intron_variant	NA	NA	NA	FALSE	Platelet Count measurement																												
+9:5072846	"[""G"",""A""]"	JAK2	ENSG00000096968	intron_variant	NA	NA	NA	FALSE	Primary Myelofibrosis																												
+9:5081780	"[""G"",""A""]"	JAK2	ENSG00000096968	synonymous_variant	A	5.50E-01	4.99E-01	FALSE	"Leukemia, Myelocytic, Acute"																												
+9:5084049	"[""G"",""T""]"	JAK2	ENSG00000096968	intron_variant	NA	NA	NA	FALSE	Ankylosing spondylitis																												
+9:5112288	"[""C"",""T""]"	JAK2	ENSG00000096968	intron_variant	NA	NA	NA	FALSE	Metabolic Syndrome X																												
+9:5377115	"[""C"",""T""]"	PLGRKT	ENSG00000107020	intron_variant	NA	NA	NA	FALSE	"Alcoholic Intoxication, Chronic"																												
+9:5447227	"[""A"",""G""]"	NA	NA	NA	NA	NA	NA	NA	Hypothyroidism																												
+9:5453973	"[""T"",""C""]"	CD274	ENSG00000120217	intron_variant	NA	NA	NA	FALSE	"Diabetes Mellitus, Insulin-Dependent"																												
+9:5467955	"[""G"",""A""]"	CD274	ENSG00000120217	3_prime_UTR_variant	NA	NA	NA	FALSE	Non-Small Cell Lung Carcinoma																												
+9:5468257	"[""G"",""C""]"	CD274	ENSG00000120217	3_prime_UTR_variant	NA	NA	NA	FALSE	Malignant neoplasm of urinary bladder																												
+9:5470497	"[""A"",""G""]"	CD274	ENSG00000120217	3_prime_UTR_variant	NA	NA	NA	FALSE	Non-Small Cell Lung Carcinoma																												
+9:5510644	"[""A"",""G""]"	PDCD1LG2	ENSG00000197646	5_prime_UTR_variant	NA	NA	NA	FALSE	Blood Protein Measurement																												
+9:5510837	"[""TA"",""TGT""]"	PDCD1LG2	ENSG00000197646	intron_variant	NA	NA	NA	FALSE	Blood Protein Measurement																												
+9:5556786	"[""A"",""G""]"	PDCD1LG2	ENSG00000197646	intron_variant	NA	NA	NA	FALSE	Ankylosing spondylitis																												
+9:5557672	"[""T"",""C""]"	PDCD1LG2	ENSG00000197646	missense_variant	C	1.00E+00	9.99E-01	FALSE	Behcet Syndrome																												
+9:5774661	"[""G"",""A""]"	KIAA1432	ENSG00000107036	3_prime_UTR_variant	NA	NA	NA	FALSE	Respiratory Tract Diseases																												
+9:5791151	"[""G"",""A""]"	ERMP1	ENSG00000099219	intron_variant	NA	NA	NA	FALSE	"Leukemia, Myelocytic, Acute"																												
+9:5792106	"[""T"",""C""]"	ERMP1	ENSG00000099219	intron_variant	NA	NA	NA	FALSE	"Leukemia, Myelocytic, Acute"																												
+9:5792156	"[""G"",""A""]"	ERMP1	ENSG00000099219	intron_variant	NA	NA	NA	FALSE	"Leukemia, Myelocytic, Acute"																												
+9:5875256	"[""C"",""G""]"	NA	NA	NA	NA	NA	NA	NA	Adolescent idiopathic scoliosis																												
+9:5877295	"[""T"",""TA""]"	NA	NA	NA	NA	NA	NA	NA	Amino acids measurement																												
+9:5893861	"[""G"",""A""]"	MLANA	ENSG00000120215	intron_variant	NA	NA	NA	FALSE	Multiple Sclerosis																												
+9:6051924	"[""T"",""G""]"	RP11-218I7.2	ENSG00000228739	intron_variant	NA	NA	NA	FALSE	Asthma																												
+9:6064299	"[""C"",""G""]"	RP11-218I7.2	ENSG00000228739	intron_variant	NA	NA	NA	FALSE	Allergic Reaction																												
+9:6064575	"[""A"",""G""]"	RP11-218I7.2	ENSG00000228739	intron_variant	NA	NA	NA	FALSE	Allergic Reaction																												
+9:6068077	"[""A"",""T""]"	NA	NA	NA	NA	NA	NA	NA	Allergic Reaction																												
+9:6072597	"[""T"",""C""]"	NA	NA	NA	NA	NA	NA	NA	Allergic Reaction																												
+9:6073013	"[""C"",""G""]"	NA	NA	NA	NA	NA	NA	NA	Allergic Reaction																												
+9:6074936	"[""A"",""G""]"	NA	NA	NA	NA	NA	NA	NA	Eczema																												
+9:6078146	"[""C"",""T""]"	NA	NA	NA	NA	NA	NA	NA	Allergic Reaction																												
+9:6078614	"[""C"",""T""]"	NA	NA	NA	NA	NA	NA	NA	Allergic Reaction																												
+9:6128897	"[""T"",""C""]"	NA	NA	NA	NA	NA	NA	NA	Asthma																												
+9:6131612	"[""A"",""T""]"	NA	NA	NA	NA	NA	NA	NA	Allergic Reaction																												
+9:6142948	"[""C"",""A""]"	NA	NA	NA	NA	NA	NA	NA	Asthma																												
+9:6146441	"[""G"",""T""]"	NA	NA	NA	NA	NA	NA	NA	Allergic Reaction																												
+9:6167017	"[""C"",""G""]"	NA	NA	NA	NA	NA	NA	NA	Asthma																												
+9:6172380	"[""A"",""G""]"	NA	NA	NA	NA	NA	NA	NA	Allergic Reaction																												
+9:6175855	"[""A"",""T""]"	NA	NA	NA	NA	NA	NA	NA	Asthma																												
+9:6188652	"[""A"",""C""]"	NA	NA	NA	NA	NA	NA	NA	Asthma																												
+9:6190076	"[""A"",""C""]"	NA	NA	NA	NA	NA	NA	NA	Asthma																												
+9:6192796	"[""T"",""C""]"	NA	NA	NA	NA	NA	NA	NA	Eosinophil count procedure																												
+9:6193455	"[""C"",""A""]"	NA	NA	NA	NA	NA	NA	NA	Asthma																												
+9:6209697	"[""A"",""G""]"	NA	NA	NA	NA	NA	NA	NA	Asthma																												
+9:6210099	"[""T"",""C""]"	NA	NA	NA	NA	NA	NA	NA	Arteriosclerosis																												
+9:6213387	"[""G"",""A""]"	NA	NA	NA	NA	NA	NA	NA	Asthma																												
+9:6213468	"[""C"",""T""]"	NA	NA	NA	NA	NA	NA	NA	Asthma																												
+9:6219176	"[""G"",""T""]"	IL33	ENSG00000137033	intron_variant	NA	NA	NA	FALSE	Asthma																												
+9:6227418	"[""G"",""A""]"	IL33	ENSG00000137033	intron_variant	NA	NA	NA	FALSE	Small cell carcinoma of lung																												
+9:6229417	"[""G"",""A""]"	IL33	ENSG00000137033	intron_variant	NA	NA	NA	FALSE	Ischemic stroke																												
+9:6231239	"[""A"",""G""]"	IL33	ENSG00000137033	intron_variant	NA	NA	NA	FALSE	Asthma																												
+9:6233082	"[""A"",""T""]"	IL33	ENSG00000137033	intron_variant	NA	NA	NA	FALSE	Asthma																												
+9:6233376	"[""T"",""C""]"	IL33	ENSG00000137033	intron_variant	NA	NA	NA	FALSE	Allergic Reaction																												
+9:6236977	"[""A"",""T""]"	IL33	ENSG00000137033	intron_variant	NA	NA	NA	FALSE	Allergic Reaction																												
+9:6237547	"[""A"",""C""]"	IL33	ENSG00000137033	intron_variant	NA	NA	NA	FALSE	Asthma																												
+9:6242950	"[""C"",""T""]"	IL33	ENSG00000137033	intron_variant	NA	NA	NA	FALSE	Wheezing																												
+9:6243935	"[""G"",""C""]"	IL33	ENSG00000137033	intron_variant	NA	NA	NA	FALSE	Allergic Reaction																												
+9:6247430	"[""C"",""T""]"	IL33	ENSG00000137033	intron_variant	NA	NA	NA	FALSE	Wheezing																												
+9:6254208	"[""C"",""T""]"	IL33	ENSG00000137033	intron_variant	NA	NA	NA	FALSE	Alzheimer's Disease																												
+9:6255881	"[""T"",""G""]"	IL33	ENSG00000137033	intron_variant	NA	NA	NA	FALSE	Colorectal Carcinoma																												
+9:6292602	"[""C"",""G""]"	NA	NA	NA	NA	NA	NA	NA	Allergic Reaction																												
+9:6301578	"[""A"",""C""]"	NA	NA	NA	NA	NA	NA	NA	Allergic Reaction																												
+9:6329888	"[""A"",""G""]"	TPD52L3	ENSG00000170777	3_prime_UTR_variant	NA	NA	NA	FALSE	Red Blood Cell Count measurement																												
+9:6331421	"[""C"",""A""]"	TPD52L3	ENSG00000170777	3_prime_UTR_variant	NA	NA	NA	FALSE	Allergic Reaction																												
+9:6331610	"[""G"",""A""]"	TPD52L3	ENSG00000170777	3_prime_UTR_variant	NA	NA	NA	FALSE	Allergic Reaction																												
+9:6335760	"[""A"",""T""]"	NA	NA	NA	NA	NA	NA	NA	Allergic Reaction																												
+9:6350235	"[""A"",""G""]"	NA	NA	NA	NA	NA	NA	NA	Asthma																												
+9:6351111	"[""A"",""G""]"	NA	NA	NA	NA	NA	NA	NA	Allergic Reaction																												
+9:6362365	"[""G"",""A""]"	NA	NA	NA	NA	NA	NA	NA	Allergic Reaction																												
+9:6364449	"[""C"",""T""]"	NA	NA	NA	NA	NA	NA	NA	Allergic Reaction																												
+9:6365683	"[""A"",""C""]"	NA	NA	NA	NA	NA	NA	NA	Adenoma																												
+9:6365737	"[""C"",""A""]"	NA	NA	NA	NA	NA	NA	NA	Allergic Reaction																												
+9:6447196	"[""G"",""A""]"	UHRF2	ENSG00000147854	intron_variant	NA	NA	NA	FALSE	Serum albumin measurement																												
+9:6664708	"[""G"",""T""]"	RP11-390F4.6	ENSG00000236924	intron_variant	NA	NA	NA	FALSE	Body Height																												
+9:6665010	"[""C"",""T""]"	RP11-390F4.6	ENSG00000236924	intron_variant	NA	NA	NA	FALSE	Alanine aminotransferase measurement																												
+9:6711363	"[""A"",""G""]"	NA	NA	NA	NA	NA	NA	NA	Eosinophil count procedure																												
+9:6880263	"[""A"",""G""]"	KDM4C	ENSG00000107077	intron_variant	NA	NA	NA	FALSE	Body mass index																												
+9:6956850	"[""A"",""C""]"	KDM4C	ENSG00000107077	intron_variant	NA	NA	NA	FALSE	Body mass index																												
+9:6959840	"[""A"",""G""]"	KDM4C	ENSG00000107077	intron_variant	NA	NA	NA	FALSE	Body mass index																												
+9:6977633	"[""G"",""A""]"	KDM4C	ENSG00000107077	intron_variant	NA	NA	NA	FALSE	Autistic Disorder																												
+9:7056822	"[""A"",""G""]"	KDM4C	ENSG00000107077	intron_variant	NA	NA	NA	FALSE	mathematical ability																												
+9:7166090	"[""A"",""C""]"	KDM4C	ENSG00000107077	intron_variant	NA	NA	NA	FALSE	Body Height																												
+9:7173500	"[""A"",""G""]"	KDM4C	ENSG00000107077	intron_variant	NA	NA	NA	FALSE	Schizophrenia																												
+9:7174673	"[""G"",""A""]"	KDM4C	ENSG00000107077	missense_variant	A	5.22E-01	4.98E-01	FALSE	Age at menarche																												
+9:7226519	"[""T"",""C""]"	NA	NA	NA	NA	NA	NA	NA	Schizophrenia																												
+9:7274696	"[""T"",""C""]"	NA	NA	NA	NA	NA	NA	NA	Polysomnography																												
+9:7288704	"[""G"",""A""]"	NA	NA	NA	NA	NA	NA	NA	"Leukemia, Myelocytic, Acute"																												
+9:7291256	"[""T"",""C""]"	NA	NA	NA	NA	NA	NA	NA	"Leukemia, Myelocytic, Acute"																												
+9:7291611	"[""G"",""A""]"	NA	NA	NA	NA	NA	NA	NA	"Leukemia, Myelocytic, Acute"																												
+9:7299991	"[""C"",""G""]"	NA	NA	NA	NA	NA	NA	NA	"Leukemia, Myelocytic, Acute"																												
+9:7300488	"[""G"",""A""]"	NA	NA	NA	NA	NA	NA	NA	"Leukemia, Myelocytic, Acute"																												
+9:7300886	"[""G"",""C""]"	NA	NA	NA	NA	NA	NA	NA	"Leukemia, Myelocytic, Acute"																												
+9:7301900	"[""T"",""C""]"	NA	NA	NA	NA	NA	NA	NA	"Leukemia, Myelocytic, Acute"																												
+9:7302941	"[""A"",""C""]"	NA	NA	NA	NA	NA	NA	NA	"Leukemia, Myelocytic, Acute"																												
+9:7302975	"[""A"",""T""]"	NA	NA	NA	NA	NA	NA	NA	"Leukemia, Myelocytic, Acute"																												
+9:7313822	"[""T"",""G""]"	NA	NA	NA	NA	NA	NA	NA	"Leukemia, Myelocytic, Acute"																												
+9:7393426	"[""A"",""T""]"	NA	NA	NA	NA	NA	NA	NA	"Leukemia, Myelocytic, Acute"																												
+9:7393934	"[""T"",""C""]"	NA	NA	NA	NA	NA	NA	NA	"Leukemia, Myelocytic, Acute"																												
+9:7395038	"[""G"",""A""]"	NA	NA	NA	NA	NA	NA	NA	Chronic liver disease																												
+9:7580824	"[""G"",""A""]"	NA	NA	NA	NA	NA	NA	NA	"Leukemia, Myelocytic, Acute"																												
+9:7580951	"[""A"",""G""]"	NA	NA	NA	NA	NA	NA	NA	"Leukemia, Myelocytic, Acute"																												
+9:7582441	"[""T"",""A""]"	NA	NA	NA	NA	NA	NA	NA	"Leukemia, Myelocytic, Acute"																												
+9:7582673	"[""G"",""A""]"	NA	NA	NA	NA	NA	NA	NA	"Leukemia, Myelocytic, Acute"																												
+9:7586590	"[""G"",""A""]"	NA	NA	NA	NA	NA	NA	NA	"Leukemia, Myelocytic, Acute"																												
+9:7588816	"[""A"",""C""]"	NA	NA	NA	NA	NA	NA	NA	"Leukemia, Myelocytic, Acute"																												
+9:7603506	"[""G"",""C""]"	NA	NA	NA	NA	NA	NA	NA	"Anemia, Sickle Cell"																												
+9:8010674	"[""C"",""A""]"	NA	NA	NA	NA	NA	NA	NA	Systolic Pressure																												
+9:8088281	"[""T"",""C""]"	NA	NA	NA	NA	NA	NA	NA	"Leukemia, Myelocytic, Acute"																												
+9:8093062	"[""A"",""G""]"	NA	NA	NA	NA	NA	NA	NA	"Leukemia, Myelocytic, Acute"																												
+9:8118541	"[""C"",""T""]"	NA	NA	NA	NA	NA	NA	NA	Serum total cholesterol measurement																												
+9:8196511	"[""G"",""A""]"	NA	NA	NA	NA	NA	NA	NA	Platelet aggregation																												
+9:8389364	"[""C"",""G""]"	PTPRD	ENSG00000153707	synonymous_variant	G	4.90E-01	4.37E-01	FALSE	Conventional (Clear Cell) Renal Cell Carcinoma																												
+9:8712601	"[""C"",""G""]"	PTPRD	ENSG00000153707	intron_variant	NA	NA	NA	FALSE	"Arthritis, Gouty"																												
+9:8820573	"[""A"",""G""]"	PTPRD	ENSG00000153707	intron_variant	NA	NA	NA	FALSE	Restless Legs Syndrome																												
+9:8826588	"[""T"",""C""]"	PTPRD	ENSG00000153707	intron_variant	NA	NA	NA	FALSE	Serum albumin measurement																												
+9:8831162	"[""A"",""G""]"	PTPRD	ENSG00000153707	intron_variant	NA	NA	NA	FALSE	Serum albumin measurement																												
+9:8832038	"[""C"",""T""]"	PTPRD	ENSG00000153707	intron_variant	NA	NA	NA	FALSE	Serum albumin measurement																												
+9:8845598	"[""A"",""G""]"	PTPRD	ENSG00000153707	intron_variant	NA	NA	NA	FALSE	Body mass index																												
+9:8879118	"[""C"",""T""]"	PTPRD	ENSG00000153707	intron_variant	NA	NA	NA	FALSE	Diabetes																												
+9:9039222	"[""A"",""G""]"	PTPRD	ENSG00000153707	intron_variant	NA	NA	NA	FALSE	Corneal Topography																												
+9:9059545	"[""G"",""A""]"	PTPRD	ENSG00000153707	intron_variant	NA	NA	NA	FALSE	Resistant hypertensive disorder																												
+9:9350706	"[""T"",""C""]"	PTPRD	ENSG00000153707	intron_variant	NA	NA	NA	FALSE	Systolic Pressure																												
+9:9404584	"[""T"",""C""]"	PTPRD	ENSG00000153707	intron_variant	NA	NA	NA	FALSE	"Leukemia, Myelocytic, Acute"																												
+9:9404813	"[""G"",""A""]"	PTPRD	ENSG00000153707	intron_variant	NA	NA	NA	FALSE	"Leukemia, Myelocytic, Acute"																												
+9:9405003	"[""A"",""G""]"	PTPRD	ENSG00000153707	intron_variant	NA	NA	NA	FALSE	"Leukemia, Myelocytic, Acute"																												
+9:9405316	"[""C"",""T""]"	PTPRD	ENSG00000153707	intron_variant	NA	NA	NA	FALSE	"Leukemia, Myelocytic, Acute"																												
+9:9405431	"[""G"",""A""]"	PTPRD	ENSG00000153707	intron_variant	NA	NA	NA	FALSE	"Leukemia, Myelocytic, Acute"																												
+9:9410073	"[""G"",""C""]"	PTPRD	ENSG00000153707	intron_variant	NA	NA	NA	FALSE	"Leukemia, Myelocytic, Acute"																												
+9:9910123	"[""G"",""A""]"	PTPRD	ENSG00000153707	intron_variant	NA	NA	NA	FALSE	Respiratory Function Tests																												
+9:10043773	"[""A"",""G""]"	PTPRD	ENSG00000153707	intron_variant	NA	NA	NA	FALSE	Age at menarche																												
+9:10251492	"[""A"",""T""]"	PTPRD	ENSG00000153707	intron_variant	NA	NA	NA	FALSE	Age at menarche																												
+9:10260263	"[""C"",""T""]"	PTPRD	ENSG00000153707	intron_variant	NA	NA	NA	FALSE	Malignant neoplasm of endometrium																												
+9:10266786	"[""C"",""T""]"	PTPRD	ENSG00000153707	intron_variant	NA	NA	NA	FALSE	Endometrial Carcinoma																												
+9:10319881	"[""A"",""C""]"	PTPRD	ENSG00000153707	intron_variant	NA	NA	NA	FALSE	Gestational Diabetes																												
+9:10337976	"[""T"",""A""]"	PTPRD	ENSG00000153707	intron_variant	NA	NA	NA	FALSE	Gestational Diabetes																												
+9:10341235	"[""C"",""G""]"	PTPRD	ENSG00000153707	intron_variant	NA	NA	NA	FALSE	Gestational Diabetes																												
+9:10369009	"[""A"",""T""]"	PTPRD	ENSG00000153707	intron_variant	NA	NA	NA	FALSE	Body mass index																												
+9:10467074	"[""C"",""T""]"	PTPRD	ENSG00000153707	intron_variant	NA	NA	NA	FALSE	"Leukemia, Myelocytic, Acute"																												
+9:10471487	"[""C"",""T""]"	PTPRD	ENSG00000153707	intron_variant	NA	NA	NA	FALSE	"Leukemia, Myelocytic, Acute"																												
+9:10471937	"[""C"",""G""]"	PTPRD	ENSG00000153707	intron_variant	NA	NA	NA	FALSE	"Leukemia, Myelocytic, Acute"																												
+9:10478387	"[""G"",""A""]"	PTPRD	ENSG00000153707	intron_variant	NA	NA	NA	FALSE	"Leukemia, Myelocytic, Acute"																												
+9:10479527	"[""T"",""C""]"	PTPRD	ENSG00000153707	intron_variant	NA	NA	NA	FALSE	"Leukemia, Myelocytic, Acute"																												
+9:10512307	"[""T"",""C""]"	PTPRD	ENSG00000153707	intron_variant	NA	NA	NA	FALSE	Adolescent idiopathic scoliosis																												
+9:10582445	"[""T"",""C""]"	PTPRD	ENSG00000153707	intron_variant	NA	NA	NA	FALSE	Mood Disorders																												
+9:10594635	"[""T"",""C""]"	PTPRD	ENSG00000153707	intron_variant	NA	NA	NA	FALSE	Diastolic blood pressure																												
+9:10753414	"[""G"",""A""]"	NA	NA	NA	NA	NA	NA	NA	Opioid-Related Disorders																												
+9:10981069	"[""T"",""A""]"	NA	NA	NA	NA	NA	NA	NA	Smoking																												
+9:11177422	"[""C"",""G""]"	NA	NA	NA	NA	NA	NA	NA	Smoking																												
+9:11353512	"[""C"",""A""]"	NA	NA	NA	NA	NA	NA	NA	Age at menarche																												
+9:11366989	"[""T"",""G""]"	NA	NA	NA	NA	NA	NA	NA	Adolescent idiopathic scoliosis																												
+9:11442765	"[""C"",""T""]"	NA	NA	NA	NA	NA	NA	NA	Adolescent idiopathic scoliosis																												
+9:11453149	"[""A"",""G""]"	NA	NA	NA	NA	NA	NA	NA	Major Depressive Disorder																												
+9:11557797	"[""C"",""T""]"	NA	NA	NA	NA	NA	NA	NA	Unipolar Depression																												
+9:11619764	"[""A"",""T""]"	NA	NA	NA	NA	NA	NA	NA	Body mass index																												
+9:11699270	"[""C"",""G""]"	NA	NA	NA	NA	NA	NA	NA	Major Depressive Disorder																												
+9:11701596	"[""C"",""G""]"	NA	NA	NA	NA	NA	NA	NA	Adolescent idiopathic scoliosis																												
+9:11706771	"[""T"",""C""]"	NA	NA	NA	NA	NA	NA	NA	Juvenile-Onset Still Disease																												
+9:11839805	"[""C"",""A""]"	NA	NA	NA	NA	NA	NA	NA	Age at menarche																												
+9:12184024	"[""A"",""G""]"	NA	NA	NA	NA	NA	NA	NA	Prostate carcinoma																												
+9:12396731	"[""A"",""G""]"	NA	NA	NA	NA	NA	NA	NA	Hair Color																												
+9:12672097	"[""T"",""C""]"	NA	NA	NA	NA	NA	NA	NA	Eye Color																												
+9:12704725	"[""C"",""T""]"	TYRP1	ENSG00000107165	intron_variant	T	6.33E-01	5.95E-01	FALSE	melanoma																												
+9:12712578	"[""T"",""A""]"	RP11-3L8.3	ENSG00000235448	intron_variant	NA	NA	NA	FALSE	Hair Color																												
+9:22115286	"[""T"",""C""]"	CDKN2B-AS1	ENSG00000240498	intron_variant	NA	NA	NA	FALSE	Rheumatoid Arthritis																												
+9:25419356	"[""A"",""T""]"	NA	NA	NA	NA	NA	NA	NA	response to bronchodilator																												
+9:35091880	"[""C"",""T""]"	PIGO	ENSG00000165282	synonymous_variant	NA	NA	NA	FALSE	HYPERPHOSPHATASIA WITH MENTAL RETARDATION SYNDROME 2																												
+9:74762494	"[""A"",""T""]"	GDA	ENSG00000119125	intron_variant	NA	NA	NA	FALSE	"Diabetes Mellitus, Non-Insulin-Dependent"																												
+9:110973232	"[""T"",""C""]"	NA	NA	NA	NA	NA	NA	NA	Apnea																												
+10:918892	"[""C"",""G""]"	LARP4B	ENSG00000107929	intron_variant	NA	NA	NA	FALSE	Eosinophil count procedure																												
+10:6075359	"[""C"",""T""]"	IL2RA	ENSG00000134460	intron_variant	NA	NA	NA	FALSE	Multiple Sclerosis																												
+10:8640217	"[""T"",""A""]"	NA	NA	NA	NA	NA	NA	NA	Thyroid stimulating hormone measurement																												
+10:62025330	"[""AT"",""A""]"	ANK3	ENSG00000151150	intron_variant	NA	NA	NA	FALSE	Rheumatoid Arthritis																												
+10:77805897	"[""C"",""CT""]"	C10orf11	ENSG00000148655	intron_variant	NA	NA	NA	FALSE	Ulcerative Colitis																												
+10:95693897	"[""A"",""G""]"	SLC35G1	ENSG00000176273	intron_variant	NA	NA	NA	FALSE	JOUBERT SYNDROME 18																												
+10:99095945	"[""G"",""C""]"	RP11-452K12.4	ENSG00000225850	intron_variant	NA	NA	NA	FALSE	Childhood asthma																												
+10:133370649	"[""T"",""G""]"	NA	NA	NA	NA	NA	NA	NA	MITOCHONDRIAL SHORT-CHAIN ENOYL-CoA HYDRATASE 1 DEFICIENCY																												
+11:192836	"[""A"",""G""]"	BET1L	ENSG00000177951	intron_variant	NA	NA	NA	FALSE	Nasal Polyps																												
+11:196944	"[""C"",""T""]"	ODF3	ENSG00000177947	5_prime_UTR_variant	NA	NA	NA	FALSE	Platelet Count measurement																												
+11:202856	"[""G"",""A""]"	BET1L	ENSG00000177951	intron_variant	NA	NA	NA	FALSE	Platelet Count measurement																												
+11:205198	"[""C"",""A""]"	BET1L	ENSG00000177951	3_prime_UTR_variant	NA	NA	NA	FALSE	Red cell distribution width determination																												
+11:207462	"[""A"",""G""]"	NA	NA	NA	NA	NA	NA	NA	Corpuscular Hemoglobin Concentration Mean																												
+11:223119	"[""T"",""C""]"	SIRT3	ENSG00000142082	intron_variant	NA	NA	NA	FALSE	Malignant Head and Neck Neoplasm																												
+11:229977	"[""G"",""A""]"	SIRT3	ENSG00000142082	intron_variant	NA	NA	NA	FALSE	Age at menarche																												
+11:231980	"[""C"",""G""]"	SIRT3	ENSG00000142082	intron_variant	NA	NA	NA	FALSE	Dyslipidemias																												
+11:235894	"[""T"",""G""]"	SIRT3	ENSG00000142082	intron_variant	NA	NA	NA	FALSE	Age at menarche																												
+11:237312	"[""T"",""C""]"	PSMD13	ENSG00000185627	intron_variant	NA	NA	NA	FALSE	"Depressive Disorder, Treatment-Resistant"																												
+11:243268	"[""T"",""G""]"	PSMD13	ENSG00000185627	intron_variant	NA	NA	NA	FALSE	Bone Density																												
+11:244552	"[""A"",""G""]"	PSMD13	ENSG00000185627	intron_variant	NA	NA	NA	FALSE	Body Height																												
+11:270715	"[""T"",""C""]"	NA	NA	NA	NA	NA	NA	NA	Platelet mean volume determination (procedure)																												
+11:284257	"[""G"",""A""]"	NLRP6	ENSG00000174885	synonymous_variant	NA	NA	NA	FALSE	Neoplasm Metastasis																												
+11:306920	"[""T"",""A""]"	NA	NA	NA	NA	NA	NA	NA	White Blood Cell Count procedure																												
+11:308065	"[""T"",""C""]"	IFITM2	ENSG00000185201	intron_variant	NA	NA	NA	FALSE	Platelet Count measurement																												
+11:332857	"[""C"",""A""]"	NA	NA	NA	NA	NA	NA	NA	Hypothyroidism																												
+11:396546	"[""G"",""A""]"	PKP3	ENSG00000184363	intron_variant	NA	NA	NA	FALSE	Tuberculosis																												
+11:408352	"[""C"",""A""]"	SIGIRR	ENSG00000185187	intron_variant	NA	NA	NA	FALSE	"Lupus Erythematosus, Systemic"																												
+11:429659	"[""C"",""T""]"	ANO9	ENSG00000185101	splice_region_variant	T	5.51E-01	5.98E-01	FALSE	Tuberculosis																												
+11:534242	"[""A"",""G""]"	HRAS	ENSG00000174775	synonymous_variant	G	2.63E-01	3.44E-01	FALSE	Malignant neoplasm of urinary bladder																												
+11:535098	"[""T"",""G""]"	HRAS	ENSG00000174775	intron_variant	NA	NA	NA	FALSE	Malignant Neoplasms																												
+11:536856	"[""G"",""C""]"	HRAS	ENSG00000174775	non_coding_transcript_exon_variant	NA	NA	NA	FALSE	Malignant Neoplasms																												
+11:577534	"[""G"",""A""]"	PHRF1	ENSG00000070047	intron_variant	NA	NA	NA	FALSE	Hypothyroidism																												
+11:611919	"[""C"",""G""]"	PHRF1	ENSG00000070047	3_prime_UTR_variant	NA	NA	NA	FALSE	"Lupus Erythematosus, Systemic"																												
+11:612967	"[""A"",""G""]"	IRF7	ENSG00000185507	intron_variant	G	1.92E-01	2.93E-01	FALSE	Tuberculosis																												
+11:614318	"[""T"",""C""]"	IRF7	ENSG00000185507	missense_variant	C	2.14E-01	2.92E-01	FALSE	Graves Disease																												
+11:614864	"[""C"",""T""]"	IRF7	ENSG00000185507	synonymous_variant	T	8.75E-01	8.79E-01	FALSE	Graves Disease																												
+11:616031	"[""T"",""C""]"	NA	NA	NA	NA	NA	NA	NA	Recurrent pyelonephritis																												
+11:616865	"[""G"",""A""]"	CDHR5	ENSG00000099834	3_prime_UTR_variant	A	9.71E-02	NA	FALSE	Gerstmann-Straussler-Scheinker Disease																												
+11:618172	"[""A"",""G""]"	CDHR5	ENSG00000099834	intron_variant	NA	NA	NA	FALSE	Systemic Scleroderma																												
+11:618998	"[""G"",""A""]"	CDHR5	ENSG00000099834	missense_variant	A	6.54E-01	5.38E-01	FALSE	Gerstmann-Straussler-Scheinker Disease																												
+11:619789	"[""T"",""G""]"	CDHR5	ENSG00000099834	missense_variant	G	7.26E-01	6.24E-01	FALSE	"Lupus Erythematosus, Systemic"																												
+11:620599	"[""G"",""T""]"	CDHR5	ENSG00000099834	intron_variant	NA	NA	NA	FALSE	Gerstmann-Straussler-Scheinker Disease																												
+11:625085	"[""A"",""G""]"	CDHR5	ENSG00000099834	5_prime_UTR_variant	NA	NA	NA	FALSE	"Lupus Erythematosus, Systemic"																												
+11:633689	"[""T"",""C""]"	NA	NA	NA	NA	NA	NA	NA	Rheumatoid Arthritis																												
+11:636399	"[""T"",""C""]"	NA	NA	NA	NA	NA	NA	NA	Mental Retardation																												
+11:636784	"[""T"",""C""]"	NA	NA	NA	NA	NA	NA	NA	Anxiety																												
+11:639273	"[""C"",""A""]"	DRD4	ENSG00000069696	intron_variant	NA	NA	NA	FALSE	Attention deficit hyperactivity disorder																												
+11:705297	"[""G"",""C""]"	EPS8L2	ENSG00000177106	5_prime_UTR_variant	NA	NA	NA	FALSE	Body Height																												
+11:772701	"[""A"",""G""]"	PDDC1	ENSG00000177225	intron_variant	NA	NA	NA	FALSE	Fuchs Endothelial Dystrophy																												
+11:780827	"[""C"",""T""]"	AP006621.5	ENSG00000255284	intron_variant	NA	NA	NA	FALSE	Tonometry																												
+11:791462	"[""G"",""A""]"	SLC25A22	ENSG00000177542	3_prime_UTR_variant	NA	NA	NA	FALSE	Tonometry																												
+11:803017	"[""A"",""G""]"	PIDD	ENSG00000177595	intron_variant	NA	NA	NA	FALSE	Breast Carcinoma																												
+11:817786	"[""C"",""T""]"	NA	NA	NA	NA	NA	NA	NA	Tonometry																												
+11:825110	"[""A"",""G""]"	PNPLA2	ENSG00000177666	3_prime_UTR_variant	NA	NA	NA	FALSE	Body Fat Distribution																												
+11:828916	"[""G"",""A""]"	EFCAB4A	ENSG00000177685	missense_variant	A	7.74E-01	7.09E-01	FALSE	Body mass index																												
+11:838722	"[""T"",""C""]"	CD151	ENSG00000177697	3_prime_UTR_variant	NA	NA	NA	FALSE	Platelet mean volume determination (procedure)																												
+11:986185	"[""C"",""A""]"	AP2A2	ENSG00000183020	intron_variant	NA	NA	NA	FALSE	Alzheimer's Disease																												
+11:993745	"[""C"",""G""]"	AP2A2	ENSG00000183020	intron_variant	G	0.00E+00	2.00E-01	FALSE	Asthma																												
+11:1027811	"[""C"",""T""]"	MUC6	ENSG00000184956	missense_variant	T	5.68E-01	5.48E-01	NA	"Gastritis, Atrophic"																												
+11:1061718	"[""G"",""T""]"	NA	NA	NA	NA	NA	NA	NA	"Lung Diseases, Interstitial"																												
+11:1061781	"[""C"",""T""]"	NA	NA	NA	NA	NA	NA	NA	"Lung Diseases, Interstitial"																												
+11:1062867	"[""C"",""T""]"	NA	NA	NA	NA	NA	NA	NA	"Lung Diseases, Interstitial"																												
+11:1063767	"[""T"",""C""]"	NA	NA	NA	NA	NA	NA	NA	"Lung Diseases, Interstitial"																												
+11:1068900	"[""T"",""C""]"	NA	NA	NA	NA	NA	NA	NA	"Lung Diseases, Interstitial"																												
+11:3038127	"[""C"",""A""]"	CARS	ENSG00000110619	intron_variant	NA	NA	NA	FALSE	Hyperactive behavior																												
+11:4448492	"[""A"",""G""]"	NA	NA	NA	NA	NA	NA	NA	Corpuscular Hemoglobin Concentration Mean																												
+11:10275120	"[""T"",""C""]"	SBF2	ENSG00000133812	intron_variant	NA	NA	NA	FALSE	Corpuscular Hemoglobin Concentration Mean																												
+11:11077129	"[""TCCTTTC"",""TTCTTTCT""]"	NA	NA	NA	NA	NA	NA	NA	Albuminuria																												
+11:89178093	"[""A"",""C""]"	NOX4	ENSG00000086991	intron_variant	NA	NA	NA	FALSE	"ALBINISM, OCULOCUTANEOUS, TYPE IB (disorder)"																												
+11:103311923	"[""C"",""G""]"	DYNC2H1	ENSG00000187240	intron_variant	NA	NA	NA	FALSE	Saldino-Noonan Syndrome																												
+11:108335940	"[""G"",""C""]"	C11orf65	ENSG00000166323	intron_variant	NA	NA	NA	FALSE	Ataxia Telangiectasia																												
+11:117989554	"[""G"",""A""]"	TMPRSS4	ENSG00000137648	3_prime_UTR_variant	NA	NA	NA	FALSE	Septicemia																												
+11:119678445	"[""T"",""C""]"	NA	NA	NA	NA	NA	NA	NA	Zlotogora-Ogur syndrome																												
+11:121137772	"[""C"",""T""]"	NA	NA	NA	NA	NA	NA	NA	"Deafness, Autosomal Dominant 12"																												
+12:25227349	"[""C"",""T""]"	LRMP	ENSG00000118308	intron_variant	NA	NA	NA	FALSE	Blepharoptosis																												
+12:54081158	"[""ACGTGGGAGAAAGAGGGAGAGG"",""ATGTGGGAGAAAGAGGGAGAGT""]"	NA	NA	NA	NA	NA	NA	NA	Childhood asthma																												
+12:109586766	"[""A"",""G""]"	ACACB	ENSG00000076555	intron_variant	NA	NA	NA	FALSE	Hyperimmunoglobulinemia D																												
+12:121641318	"[""C"",""T""]"	NA	NA	NA	NA	NA	NA	NA	Immune dysfunction with T-cell inactivation due to calcium entry defect 1																												
+12:124602646	"[""G"",""A""]"	FAM101A	ENSG00000178882	intron_variant	NA	NA	NA	FALSE	response to bronchodilator																												
+13:23337424	"[""A"",""G""]"	NA	NA	NA	NA	NA	NA	NA	"SPASTIC ATAXIA, CHARLEVOIX-SAGUENAY TYPE"																												
+13:32339465	"[""T"",""G""]"	RXFP2	ENSG00000133105	intron_variant	NA	NA	NA	FALSE	"BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 2"																												
+13:32380134	"[""G"",""C""]"	NA	NA	NA	NA	NA	NA	NA	"Neoplastic Syndromes, Hereditary"																												
+13:32398259	"[""A"",""G""]"	NA	NA	NA	NA	NA	NA	NA	"Neoplastic Syndromes, Hereditary"																												
+13:48045719	"[""TC"",""T""]"	NA	NA	NA	NA	NA	NA	NA	Agranulocytosis																												
+13:51946439	"[""CAGTTT"",""CTG""]"	INTS6	ENSG00000102786	intron_variant	NA	NA	NA	FALSE	Hepatolenticular Degeneration																												
+13:77000663	"[""C"",""T""]"	NA	NA	NA	NA	NA	NA	NA	"CEROID LIPOFUSCINOSIS, NEURONAL, 5"																												
+13:99380092	"[""G"",""C""]"	SLC15A1	ENSG00000088386	intron_variant	NA	NA	NA	FALSE	Respiratory Tract Diseases																												
+13:107684706	"[""G"",""T""]"	NA	NA	NA	NA	NA	NA	NA	Serum albumin measurement																												
+14:20693973	"[""TCTTTCACACCAAG"",""TGTTTCACACCAAA""]"	NA	NA	NA	NA	NA	NA	NA	Amyotrophic Lateral Sclerosis 9																												
+14:84450167	"[""C"",""T""]"	NA	NA	NA	NA	NA	NA	NA	Intelligence																												
+14:91374725	"[""T"",""C""]"	RPS6KA5	ENSG00000100784	intron_variant	NA	NA	NA	FALSE	Malignant neoplasm of breast																												
+15:42389007	"[""G"",""T""]"	NA	NA	NA	NA	NA	NA	NA	Limb-girdle muscular dystrophy type 2A																												
+15:43376592	"[""T"",""C""]"	UBR1	ENSG00000159459	intron_variant	NA	NA	NA	FALSE	"MICROCEPHALY AND CHORIORETINOPATHY, AUTOSOMAL RECESSIVE, 3"																												
+15:49547350	"[""T"",""C""]"	GALK2	ENSG00000156958	intron_variant	NA	NA	NA	FALSE	Blood Protein Measurement																												
+15:70752915	"[""GTGCAGA"",""G""]"	NA	NA	NA	NA	NA	NA	NA	"Leukemia, Myelocytic, Acute"																												
+15:74181301	"[""C"",""A""]"	TBC1D21	ENSG00000167139	intron_variant	NA	NA	NA	FALSE	ANOPHTHALMIA AND PULMONARY HYPOPLASIA																												
+15:78606381	"[""T"",""C""]"	NA	NA	NA	NA	NA	NA	NA	Malignant Neoplasms																												
+16:1985996	"[""ACCCAATTTTT"",""AACCAATTTTG""]"	NA	NA	NA	NA	NA	NA	NA	Mitochondrial Diseases																												
+16:56879638	"[""G"",""C""]"	NA	NA	NA	NA	NA	NA	NA	Gitelman Syndrome																												
+16:64305190	"[""G"",""T""]"	AC012322.1	ENSG00000261028	intron_variant	NA	NA	NA	FALSE	"Leukemia, Myelocytic, Acute"																												
+16:68738324	"[""G"",""T""]"	CDH3	ENSG00000062038	intron_variant	NA	NA	NA	FALSE	"Neoplastic Syndromes, Hereditary"																												
+16:82861212	"[""C"",""T""]"	CDH13	ENSG00000140945	intron_variant	NA	NA	NA	FALSE	Adolescent idiopathic scoliosis																												
+17:3499068	"[""G"",""T""]"	TRPV1	ENSG00000196689	5_prime_UTR_variant	NA	NA	NA	FALSE	Canavan Disease																												
+17:16127206	"[""A"",""C""]"	PIGL	ENSG00000108474	intron_variant	NA	NA	NA	FALSE	Forced expiratory volume function																												
+17:31226460	"[""G"",""A""]"	NA	NA	NA	NA	NA	NA	NA	"Neoplastic Syndromes, Hereditary"																												
+17:40631693	"[""T"",""G""]"	ATP6V0A1	ENSG00000033627	intron_variant	NA	NA	NA	FALSE	"MENINGIOMA, FAMILIAL, SUSCEPTIBILITY TO"																												
+17:43091018	"[""T"",""C""]"	NA	NA	NA	NA	NA	NA	NA	"BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 1"																												
+17:43093401	"[""T"",""C""]"	NA	NA	NA	NA	NA	NA	NA	Hereditary Breast and Ovarian Cancer Syndrome																												
+17:46034247	"[""A"",""G""]"	PRR15L	ENSG00000167183	intron_variant	NA	NA	NA	FALSE	Primary biliary cirrhosis																												
+17:63918011	"[""T"",""A""]"	CEP112	ENSG00000154240	intron_variant	NA	NA	NA	FALSE	"Isolated Growth Hormone Deficiency, Type II"																												
+17:63943846	"[""T"",""A""]"	CEP112	ENSG00000154240	intron_variant	NA	NA	NA	FALSE	Muscle Cramp																												
+18:248481	"[""T"",""A""]"	THOC1	ENSG00000079134	intron_variant	NA	NA	NA	FALSE	Vital capacity																												
+18:294495	"[""C"",""A""]"	NA	NA	NA	NA	NA	NA	NA	"Diabetes Mellitus, Non-Insulin-Dependent"																												
+18:442441	"[""C"",""T""]"	COLEC12	ENSG00000158270	intron_variant	NA	NA	NA	FALSE	Metabolic Syndrome X																												
+18:466810	"[""T"",""G""]"	COLEC12	ENSG00000158270	intron_variant	NA	NA	NA	FALSE	Blood Protein Measurement																												
+18:649311	"[""A"",""G""]"	CLUL1	ENSG00000079101	intron_variant	NA	NA	NA	FALSE	Testicular Germ Cell Tumor																												
+18:653847	"[""G"",""A""]"	C18orf56	ENSG00000176912	intron_variant	NA	NA	NA	FALSE	Liver carcinoma																												
+18:657352	"[""T"",""C""]"	C18orf56	ENSG00000176912	intron_variant	NA	NA	NA	FALSE	"Hyalinosis, Systemic"																												
+18:657443	"[""A"",""C""]"	C18orf56	ENSG00000176912	intron_variant	NA	NA	NA	FALSE	"Hyalinosis, Systemic"																												
+18:658064	"[""G"",""C""]"	C18orf56	ENSG00000176912	missense_variant	C	2.79E-01	1.30E-01	NA	Colorectal Carcinoma																												
+18:661647	"[""G"",""A""]"	TYMS	ENSG00000176890	intron_variant	NA	NA	NA	FALSE	Non-Small Cell Lung Carcinoma																												
+18:662103	"[""G"",""A""]"	TYMS	ENSG00000176890	intron_variant	A	4.56E-01	4.52E-01	FALSE	Skin lesion																												
+18:666371	"[""G"",""A""]"	TYMS	ENSG00000176890	intron_variant	NA	NA	NA	FALSE	Spina Bifida																												
+18:672792	"[""C"",""T""]"	ENOSF1	ENSG00000132199	3_prime_UTR_variant	NA	NA	NA	FALSE	Glioma																												
+18:673016	"[""C"",""T""]"	TYMS	ENSG00000176890	3_prime_UTR_variant	T	3.09E-01	3.11E-01	FALSE	Neural Tube Defects																												
+18:673086	"[""A"",""G""]"	TYMS	ENSG00000176890	3_prime_UTR_variant	NA	NA	NA	FALSE	Acute lymphocytic leukemia																												
+18:676008	"[""G"",""C""]"	ENOSF1	ENSG00000132199	intron_variant	NA	NA	NA	FALSE	Neoplasms																												
+18:676789	"[""A"",""T""]"	ENOSF1	ENSG00000132199	intron_variant	NA	NA	NA	FALSE	Malignant neoplasm of endometrium																												
+18:677302	"[""G"",""A""]"	ENOSF1	ENSG00000132199	intron_variant	A	2.39E-01	3.11E-01	FALSE	Malignant neoplasm of endometrium																												
+18:677931	"[""C"",""G""]"	ENOSF1	ENSG00000132199	intron_variant	NA	NA	NA	FALSE	Malignant neoplasm of endometrium																												
+18:683607	"[""C"",""T""]"	ENOSF1	ENSG00000132199	intron_variant	NA	NA	NA	FALSE	Malignant neoplasm of stomach																												
+18:2170567	"[""T"",""C""]"	RP11-161I6.2	ENSG00000263745	intron_variant	NA	NA	NA	FALSE	"Leukemia, Myelocytic, Acute"																												
+18:4127583	"[""A"",""C""]"	DLGAP1	ENSG00000170579	intron_variant	NA	NA	NA	FALSE	Mental disorders																												
+18:56523802	"[""CT"",""C""]"	NA	NA	NA	NA	NA	NA	NA	Alzheimer's Disease																												
+19:406934	"[""C"",""A""]"	C2CD4C	ENSG00000183186	3_prime_UTR_variant	NA	NA	NA	FALSE	Polysomnography																												
+19:498524	"[""A"",""G""]"	MADCAM1	ENSG00000099866	synonymous_variant	C	0.00E+00	4.59E-01	FALSE	Acute GVH disease																												
+19:531115	"[""C"",""T""]"	NA	NA	NA	NA	NA	NA	NA	Blood Protein Measurement																												
+19:582253	"[""T"",""C""]"	BSG	ENSG00000172270	intron_variant	NA	NA	7.51E-01	FALSE	Cerebral Infarction																												
+19:582927	"[""T"",""A""]"	BSG	ENSG00000172270	3_prime_UTR_variant	NA	NA	NA	FALSE	Coronary Arteriosclerosis																												
+19:655608	"[""T"",""C""]"	RNF126	ENSG00000070423	intron_variant	NA	NA	NA	FALSE	"Leukemia, Myelocytic, Acute"																												
+19:657666	"[""C"",""T""]"	RNF126	ENSG00000070423	intron_variant	NA	NA	NA	FALSE	"Leukemia, Myelocytic, Acute"																												
+19:689590	"[""C"",""G""]"	PRSS57	ENSG00000185198	intron_variant	NA	NA	NA	FALSE	Blood Protein Measurement																												
+19:795457	"[""A"",""G""]"	NA	NA	NA	NA	NA	NA	NA	Eosinophil count procedure																												
+19:799770	"[""A"",""G""]"	PTBP1	ENSG00000011304	intron_variant	NA	NA	NA	FALSE	"Diabetes Mellitus, Non-Insulin-Dependent"																												
+19:806673	"[""T"",""C""]"	PTBP1	ENSG00000011304	intron_variant	NA	NA	NA	FALSE	Blood Protein Measurement																												
+19:807442	"[""G"",""C""]"	PTBP1	ENSG00000011304	intron_variant	NA	NA	NA	FALSE	Red Blood Cell Count measurement																												
+19:840599	"[""G"",""C""]"	NA	NA	NA	NA	NA	NA	NA	Blood Protein Measurement																												
+19:850733	"[""C"",""G""]"	NA	NA	NA	NA	NA	NA	NA	White Blood Cell Count procedure																												
+19:862912	"[""C"",""T""]"	CFD	ENSG00000197766	intron_variant	NA	NA	NA	FALSE	Age related macular degeneration																												
+19:877437	"[""G"",""C""]"	MED16	ENSG00000175221	intron_variant	NA	NA	NA	FALSE	Blood Protein Measurement																												
+19:920642	"[""T"",""A""]"	KISS1R	ENSG00000116014	missense_variant	A	7.68E-01	NA	FALSE	Choroid Plexus Papilloma																												
+19:941603	"[""A"",""G""]"	ARID3A	ENSG00000116017	intron_variant	NA	NA	NA	FALSE	Primary biliary cirrhosis																												
+19:950694	"[""G"",""A""]"	ARID3A	ENSG00000116017	intron_variant	NA	NA	NA	FALSE	Age at menopause																												
+19:10692116	"[""CTGCAGCCAGGCCG"",""CCGCAGCCAGGCCA""]"	AP1M2	ENSG00000129354	intron_variant	NA	NA	NA	FALSE	Low density lipoprotein cholesterol measurement																												
+19:44828468	"[""T"",""G""]"	NA	NA	NA	NA	NA	NA	NA	Alzheimer's Disease																												
+19:44899959	"[""A"",""T""]"	ZNF285	ENSG00000267508	intron_variant	NA	NA	NA	FALSE	Mental deterioration																												
+19:48591631	"[""G"",""GA""]"	PLA2G4C	ENSG00000105499	intron_variant	NA	NA	NA	FALSE	"ICHTHYOSIS, CONGENITAL, AUTOSOMAL RECESSIVE 14"																												
+19:54863017	"[""T"",""C""]"	CTD-2587H19.1	ENSG00000268802	non_coding_transcript_exon_variant	NA	NA	NA	FALSE	Blood Protein Measurement																												
+20:1136156	"[""C"",""A""]"	PSMF1	ENSG00000125818	intron_variant	NA	NA	NA	FALSE	"Leukemia, Myelocytic, Acute"																												
+20:22009335	"[""C"",""T""]"	NA	NA	NA	NA	NA	NA	NA	"Alopecia, Male Pattern"																												
+20:36255171	"[""T"",""C""]"	NA	NA	NA	NA	NA	NA	NA	Protein C measurement																												
+21:43056810	"[""T"",""G""]"	NA	NA	NA	NA	NA	NA	NA	Cystathionine beta-Synthase Deficiency Disease																												
+21:46353985	"[""A"",""G""]"	C21orf67	ENSG00000183250	3_prime_UTR_variant	NA	NA	NA	FALSE	"Microcephalic Osteodysplastic Primordial Dwarfism, Type II"																												
+22:50054998	"[""G"",""GAGTCCCAGGGAC""]"	NA	NA	NA	NA	NA	NA	NA	Body mass index																												
+22:50258690	"[""C"",""T""]"	ZBED4	ENSG00000100426	intron_variant	NA	NA	NA	FALSE	Diverticular Diseases																												
+X:150659757	"[""A"",""G""]"	NA	NA	NA	NA	NA	NA	NA	X-linked centronuclear myopathy																												

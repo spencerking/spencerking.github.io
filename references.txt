@@ -1,0 +1,18 @@
+Data:
+https://www.nist.gov/programs-projects/genome-bottle
+
+Genetics tools:
+https://hail.is
+
+Annotation libraries:
+https://uswest.ensembl.org/info/docs/tools/vep/index.html
+http://disgenet.org
+
+Chromosome information:
+https://medlineplus.gov/
+
+Heritage information:
+https://www.uofmhealth.org/health-library/tv7879
+
+Web dev:
+https://getbootstrap.com

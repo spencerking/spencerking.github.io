@@ -1,0 +1,363 @@
+<html>
+  <head>
+    <link href="./css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://d3js.org/d3.v4.js"></script>
+    <!--<script src="https://d3js.org/d3-dsv.v2.min.js"></script>-->
+    <script src="https://d3js.org/d3-fetch.v2.min.js"></script>
+    <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+    <script src="js/overview.js"></script>
+    <script src="js/includehtml.js"></script>
+    <title>Overview</title>
+  </head>
+  <style>
+    .table {
+	margin-bottom: 0;
+    }
+  </style>
+  <body>
+    <a href="./diseases.html" style="text-decoration: none;">
+      <img src="./img/syringe.png" height="20px" width="20px" style="margin-bottom:3px; margin-left:5px;">
+      Disease Explorer
+    </a>
+
+    <div w3-include-html="modals.html"></div>
+    
+    <div class="row" style="padding-left: 5px; padding-right: 5px;">
+      <div class="col-sm-4">
+	<div class="row">
+	  <div class="col-sm-12">
+	    <div class="card">
+	      <div class="card-body">
+		<h4 class="card-title">Patient Profile</h4>
+		<h6 class="card-subtitle mb-2 text-muted"></h6>
+		<p>Patient is a male of Ashkenazi Jewish heritage. Based on heritage, this patient is at increased risk for a variety of genetic conditions.</p>
+		<p>Potential risk factors include:</p>
+		<table class="table">
+		  <thead>
+		    <tr>
+		      <th scope="col">Disease</th>
+		      <th scope="col">Description</th>
+		    </tr>		
+		  </thead>
+		  <tbody>
+		    <tr>
+		      <th scope="row">Bloom syndrome</th>
+		      <td>As an infant, patient is likely to be small and remain shorter than typical as they grow.</td>
+		    </tr>
+		    <tr>
+		      <th scope="row">Canavan disease</th>
+		      <td>Gradually destroys brain tissue.</td>
+		    </tr>
+		    <tr>
+		      <th scope="row">Cystic fibrosis</th>
+		      <td>Causes very thick mucus in the lungs and problems with food digestion.</td>
+		    </tr>
+		    <tr>
+		      <th scope="row">Familial dysautonomia</th>
+		      <td>Unable to feel pain, frequent sweating, and difficulty with speech and coordination.</td>
+		    </tr>
+		    <tr>
+		      <th scope="row">Fanconi anemia</th>
+		      <td>Insufficient number of blood cells and problems with the heart, kidneys, arms, or legs. Also associated with increased cancer risk.</td>
+		    </tr>
+		    <tr>
+		      <th scope="row">Gaucher disease</th>
+		      <td>Causes fat build up in certain cells of the liver, spleen, and bone marrow.</td>
+		    </tr>
+		    <tr>
+		      <th scope="row">Mucolipidosis IV</th>
+		      <td>Causes the nervous system to deteriorate, or break down, over time.</td>
+		    </tr>
+		    <tr>
+		      <th scope="row">Niemann-Pick disease</th>
+		      <td>Causes fat build up in cells of the liver, spleen, lymph nodes, and bone marrow.</td>
+		    </tr>
+		    <tr>
+		      <th scope="row">Tay-Sachs disease</th>
+		      <td>Causes fat build up in the cells of the brain and nervous system.</td>
+		    </tr>
+		    <tr>
+		      <th scope="row">Torsion dystonia</th>
+		      <td>Ongoing spasms that twist muscles in arms, legs, and sometimes entire body.</td>
+		    </tr>
+		</table>
+	      </div>
+	    </div>
+	  </div>
+	</div>
+      </div>
+      <div class="col-sm-4">
+	<div class="row">
+	  <div class="col-sm-12">
+	    <div class="card">
+	      <div class="card-body">
+		<h4 class="card-title">Severity</h4>
+		<h6 class="card-subtitle mb-2 text-muted">Top 5 Most Severe Diseases</h6>
+		<table class="table">
+		  <thead>
+		    <tr>
+		      <th scope="col">Disease</th>
+		      <th scope="col">Severity</th>
+		    </tr>		
+		  </thead>
+		  <tbody>
+		    <tr>
+		      <th scope="row" id="disease1"></th>
+		      <td id="severity1"></td>
+		    </tr>
+		    <tr>
+		      <th scope="row" id="disease2"></th>
+		      <td id="severity2"></td>
+		    </tr>
+		    <tr>
+		      <th scope="row" id="disease3"></th>
+		      <td id="severity3"></td>
+		    </tr>
+		    <tr>
+		      <th scope="row" id="disease4"></th>
+		      <td id="severity4"></td>
+		    </tr>
+		    <tr>
+		      <th scope="row" id="disease5"></th>
+		      <td id="severity5"></td>
+		    </tr>
+		</table>
+	      </div>
+	    </div>
+	  </div>
+	</div>
+
+	<div class="row mt-4">
+	     <div class="col-sm-12">
+	       <div class="card">
+		 <div class="card-body">
+		   <h4 class="card-title">Mutations Per Organ</h4>
+		   <h6 class="card-subtitle mb-2 text-muted"></h6>
+		   <div id="organs-chart"></div>
+		 </div>
+	       </div>
+	     </div>
+	</div>
+      </div>
+      <div class="col-sm-4">
+	<div class="row">
+	  <div class="col-sm-12">
+	    <div class="card">
+	      <div class="card-body" style="height: 93.25%; overflow: scroll;">
+		<h4 class="card-title">Chromosomes</h4>
+		<h6 class="card-subtitle mb-2 text-muted"></h6>
+		<div id="chromosome-chart"></div>
+		<table class="table">
+		  <thead>
+		    <tr>
+		      <th scope="col">Chromosome</th>
+		      <th scope="col">Mutations</th>
+		    </tr>
+		  </thead>
+		  <tbody>
+		    <tr>
+		      <th scope="row">
+			 <button type="button" data-toggle="modal" data-target="#chr1Modal">
+			   1
+			 </button>
+		      </th>
+		      <td id="chr1"></td>
+		    </tr>
+		    <tr>
+		      <th scope="row">
+		      	<button type="button" data-toggle="modal" data-target="#chr2Modal">
+			  2
+			</button>
+		      </th>
+		      <td id="chr2"></td>
+		    </tr>
+		    <tr>
+		      <th scope="row">
+		      	<button type="button" data-toggle="modal" data-target="#chr3Modal">
+			  3
+			</button>
+		      </th>
+		      <td id="chr3"></td>
+		    </tr>
+		    <tr>
+		      <th scope="row">
+			<button type="button" data-toggle="modal" data-target="#chr4Modal">
+			  4
+			</button>
+		      </th>
+		      <td id="chr4"></td>
+		    </tr>
+		    <tr>
+		      <th scope="row">
+		      	<button type="button" data-toggle="modal" data-target="#chr5Modal">
+			  5
+			</button>
+		      </th>
+		      <td id="chr5"></td>
+		    </tr>
+		    <tr>
+		      <th scope="row">
+		      	<button type="button" data-toggle="modal" data-target="#chr6Modal">
+			  6
+			</button>
+		      </th>
+		      <td id="chr6"></td>
+		    </tr>
+		    <tr>
+		      <th scope="row">
+		      	<button type="button" data-toggle="modal" data-target="#chr7Modal">
+			  7
+			</button>
+		      </th>
+		      <td id="chr7"></td>
+		    </tr>
+		    <tr>
+		      <th scope="row">
+		      	<button type="button" data-toggle="modal" data-target="#chr8Modal">
+			  8
+			</button>
+		      </th>
+		      <td id="chr8"></td>
+		    </tr>
+		    <tr>
+		      <th scope="row">
+		      	<button type="button" data-toggle="modal" data-target="#chr9Modal">
+			  9
+			</button>
+		      </th>
+		      <td id="chr9"></td>
+		    </tr>
+		    <tr>
+		      <th scope="row">
+		      	<button type="button" data-toggle="modal" data-target="#chr10Modal">
+			  10
+			</button>
+		      </th>
+		      <td id="chr10"></td>
+		    </tr>
+		    <tr>
+		      <th scope="row">
+		      	<button type="button" data-toggle="modal" data-target="#chr11Modal">
+			  11
+			</button>
+		      </th>
+		      <td id="chr11"></td>
+		    </tr>
+		    <tr>
+		      <th scope="row">
+		      	<button type="button" data-toggle="modal" data-target="#chr12Modal">
+			  12
+			</button>
+		      </th>
+		      <td id="chr12"></td>
+		    </tr>
+		    <tr>
+		      <th scope="row">
+		      	<button type="button" data-toggle="modal" data-target="#chr13Modal">
+			  13
+			</button>
+		      </th>
+		      <td id="chr13"></td>
+		    </tr>
+		    <tr>
+		      <th scope="row">
+		      	<button type="button" data-toggle="modal" data-target="#chr14Modal">
+			  14
+			</button>
+		      </th>
+		      <td id="chr14"></td>
+		    </tr>
+		    <tr>
+		      <th scope="row">
+		      	<button type="button" data-toggle="modal" data-target="#chr15Modal">
+			  15
+			</button>
+		      </th>
+		      <td id="chr15"></td>
+		    </tr>
+		    <tr>
+		      <th scope="row">
+		      	<button type="button" data-toggle="modal" data-target="#chr16Modal">
+			  16
+			</button>
+		      </th>
+		      <td id="chr16"></td>
+		    </tr>
+		    <tr>
+		      <th scope="row">
+		      	<button type="button" data-toggle="modal" data-target="#chr17Modal">
+			  17
+			</button>
+		      </th>
+		      <td id="chr17"></td>
+		    </tr>
+		    <tr>
+		      <th scope="row">
+		      	<button type="button" data-toggle="modal" data-target="#chr18Modal">
+			  18
+			</button>
+		      </th>
+		      <td id="chr18"></td>
+		    </tr>
+		    <tr>
+		      <th scope="row">
+		      	<button type="button" data-toggle="modal" data-target="#chr19Modal">
+			  19
+			</button>
+		      </th>
+		      <td id="chr19"></td>
+		    </tr>
+		    <tr>
+		      <th scope="row">
+		      	<button type="button" data-toggle="modal" data-target="#chr20Modal">
+			  20
+			</button>
+		      </th>
+		      <td id="chr20"></td>
+		    </tr>
+		    <tr>
+		      <th scope="row">
+		      	<button type="button" data-toggle="modal" data-target="#chr21Modal">
+			  21
+			</button>
+		      </th>
+		      <td id="chr21"></td>
+		    </tr>
+		    <tr>
+		      <th scope="row">
+			<button type="button" data-toggle="modal" data-target="#chr21Modal">
+			  22
+			</button>
+		      </th>
+		      <td id="chr22"></td>
+		    </tr>
+		  </tbody>  
+		</table>
+	      </div>
+	    </div>
+	  </div>
+	</div>
+	</div>
+      </div>
+</div>
+
+  <!-- Bootstrap core JavaScript
+    ================================================== -->
+  <!-- Placed at the end of the document so the pages load faster -->
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+    integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+    crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
+    integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+    crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"
+    integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
+    crossorigin="anonymous"></script>
+  <!-- Icons -->
+  <script src="https://unpkg.com/feather-icons/dist/feather.min.js"></script>
+  <script>
+    includeHTML();
+  </script>
+  
+  </body>
+</html>
