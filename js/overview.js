@@ -312,7 +312,6 @@ setTimeout(() => {
     // console.log(diseaseNotes);
     displaySeverity(topNSeverities);
     displayChromosomes(c);
-    createDiseaseCard("Body mass index");
 }, 100);
 
 
