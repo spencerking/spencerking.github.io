@@ -33,7 +33,7 @@ function getDiseaseNotes(dataset) {
 			// TODO:
 			// Can probably just remove this else and assume it'll all work fine
 			if (notes[name] != note) {
-				console.log('This should never happen if I annotate the data right');
+				//console.log('This should never happen if I annotate the data right');
 			}
 		}
 	});
