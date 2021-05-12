@@ -1,6 +1,10 @@
 # CSE557A-Final-Project
 
-## Files
+## Report and Presentation
+
+Our final report is the file `KingMorganShapiro_report.pdf` and our presentation shown in class is `KingMorganShapiro_presentation.pdf`.
+
+## Source Code Files
 
 ### css
 The css files used for the project.
@@ -18,3 +22,6 @@ We only used one, royalty-free, permissively licensed icon which we recolored.
 ### js
 The Javascript files used for the project.
 We implemented these ourselves and used some example code from the d3 documentation, cited in comments.
+
+### index.html, diseases.html, and modal.html
+These are the Overview page, Disease Explorer page, and Chromosome modals respectively.
