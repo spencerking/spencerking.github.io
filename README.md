@@ -1,5 +1,7 @@
 # CSE557A-Final-Project
 
+The project can be accessed live [here](https://spencerking.github.io/index.html) or you can run a web server on your local machine using something like [MAMP](https://www.mamp.info/).
+
 ## Report and Presentation
 
 Our final report is the file `KingMorganShapiro_report.pdf` and our presentation shown in class is `KingMorganShapiro_presentation.pdf`.
