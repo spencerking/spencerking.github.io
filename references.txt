@@ -1,5 +1,6 @@
 Data:
 https://www.nist.gov/programs-projects/genome-bottle
+ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/AshkenazimTrio/analysis
 
 Genetics tools:
 https://hail.is
