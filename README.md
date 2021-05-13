@@ -6,6 +6,12 @@ The project can be accessed live [here](https://spencerking.github.io/index.html
 
 Our final report is the file `KingMorganShapiro_report.pdf` and our presentation shown in class is `KingMorganShapiro_presentation.pdf`.
 
+## Data Availability
+
+In order to generate our data we used the Genome in a Bottle Consortium's AJtrio_HiSeq300X_cortex_variants_GRCh37_09042015.vcf which can be downloaded from their FTP server: ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/AshkenazimTrio/analysis
+
+For the disease names we used DisGeNET's all_variant_disease_associations.tsv which can be downloaded from [https://www.disgenet.org/downloads](https://www.disgenet.org/downloads).
+
 ## Source Code Files
 
 ### css
